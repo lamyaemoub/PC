@@ -1,0 +1,875 @@
+00:00:00.017533 main     VirtualBox COM Server 4.1.34 r2101037256 win.amd64 (Jul 26 2022 16:16:15) release log
+00:00:00.017541 main     Log opened 2024-09-25T13:46:04.648017700Z
+00:00:00.017542 main     Build Type: release
+00:00:00.017755 main     OS Product: Windows 10
+00:00:00.017760 main     OS Release: 10.0.19045
+00:00:00.017761 main     OS Service Pack: 
+00:00:00.157689 main     DMI Product Name: HP EliteBook 840 G3
+00:00:00.183090 main     DMI Product Version:  
+00:00:00.183104 main     Firmware type: UEFI
+00:00:00.183771 main     Secure Boot: VERR_PRIVILEGE_NOT_HELD
+00:00:00.184574 main     Host RAM: 16264MB (15.8GB) total, 2229MB (2.1GB) available
+00:00:00.184583 main     Executable: C:\Program Files\ldplayer9box\Ld9BoxSVC.exe
+00:00:00.184584 main     Process ID: 26588
+00:00:00.184585 main     Package type: WINDOWS_64BITS_GENERIC (OSE)
+00:00:00.190479 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(869) long __cdecl vbpsCreateRegKeyA(struct VBPSREGSTATE *,struct HKEY__ *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.190505 main     1449: create key '{20191216-1750-46f0-936e-bd127d5bc264}' -> 5
+00:00:00.190652 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(869) long __cdecl vbpsCreateRegKeyA(struct VBPSREGSTATE *,struct HKEY__ *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.190669 main     1263: create key '{20191216-1807-4249-5ba5-ea42d66af0bf}' -> 5
+00:00:00.190675 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(964) long __cdecl vbpsCreateRegKeyWithDefaultValueAAEx(struct VBPSREGSTATE *,struct HKEY__ *,const char *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.190682 main     1263: create key '{20191216-1807-4249-5ba5-ea42d66af0bf}'(/Default='PSFactoryBuffer') -> 5
+00:00:00.191560 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(869) long __cdecl vbpsCreateRegKeyA(struct VBPSREGSTATE *,struct HKEY__ *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.191583 main     1582: create key '{20191216-d4fc-485f-8613-5af88bfcfcdc}' -> 5
+00:00:00.191590 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(964) long __cdecl vbpsCreateRegKeyWithDefaultValueAAEx(struct VBPSREGSTATE *,struct HKEY__ *,const char *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.191597 main     1582: create key '{20191216-d4fc-485f-8613-5af88bfcfcdc}'(/Default='IVBoxSVCAvailabilityChangedEvent') -> 5
+00:00:00.192097 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(869) long __cdecl vbpsCreateRegKeyA(struct VBPSREGSTATE *,struct HKEY__ *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.192115 main     1582: create key '{20191216-c6fa-430e-6020-6a505d086387}' -> 5
+00:00:00.192123 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(964) long __cdecl vbpsCreateRegKeyWithDefaultValueAAEx(struct VBPSREGSTATE *,struct HKEY__ *,const char *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.192130 main     1582: create key '{20191216-c6fa-430e-6020-6a505d086387}'(/Default='IFsObjInfo') -> 5
+00:00:00.192417 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(869) long __cdecl vbpsCreateRegKeyA(struct VBPSREGSTATE *,struct HKEY__ *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.192431 main     1582: create key '{20191216-ebf9-4d5c-7aea-877bfc4256ba}' -> 5
+00:00:00.192437 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(964) long __cdecl vbpsCreateRegKeyWithDefaultValueAAEx(struct VBPSREGSTATE *,struct HKEY__ *,const char *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.192518 main     1582: create key '{20191216-ebf9-4d5c-7aea-877bfc4256ba}'(/Default='IDHCPGroupConfig') -> 5
+00:00:00.192636 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(869) long __cdecl vbpsCreateRegKeyA(struct VBPSREGSTATE *,struct HKEY__ *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.192646 main     1582: create key '{20191216-f1f8-4590-941a-cdb66075c5bf}' -> 5
+00:00:00.192652 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(964) long __cdecl vbpsCreateRegKeyWithDefaultValueAAEx(struct VBPSREGSTATE *,struct HKEY__ *,const char *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.192659 main     1582: create key '{20191216-f1f8-4590-941a-cdb66075c5bf}'(/Default='IInternalSessionControl') -> 5
+00:00:00.192762 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(869) long __cdecl vbpsCreateRegKeyA(struct VBPSREGSTATE *,struct HKEY__ *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.192772 main     1582: create key '{20191216-7ff8-4a84-bd34-0c651e118bb5}' -> 5
+00:00:00.192778 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(964) long __cdecl vbpsCreateRegKeyWithDefaultValueAAEx(struct VBPSREGSTATE *,struct HKEY__ *,const char *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.192785 main     1582: create key '{20191216-7ff8-4a84-bd34-0c651e118bb5}'(/Default='IUSBController') -> 5
+00:00:00.192885 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(869) long __cdecl vbpsCreateRegKeyA(struct VBPSREGSTATE *,struct HKEY__ *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.192895 main     1582: create key '{20191216-42f8-cd96-7570-6a8800e3342c}' -> 5
+00:00:00.192903 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(964) long __cdecl vbpsCreateRegKeyWithDefaultValueAAEx(struct VBPSREGSTATE *,struct HKEY__ *,const char *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.192911 main     1582: create key '{20191216-42f8-cd96-7570-6a8800e3342c}'(/Default='IDnDBase') -> 5
+00:00:00.193080 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(869) long __cdecl vbpsCreateRegKeyA(struct VBPSREGSTATE *,struct HKEY__ *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.193098 main     1582: create key '{20191216-0ff7-46b7-a138-3c6e5ac946b4}' -> 5
+00:00:00.193108 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(964) long __cdecl vbpsCreateRegKeyWithDefaultValueAAEx(struct VBPSREGSTATE *,struct HKEY__ *,const char *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.193117 main     1582: create key '{20191216-0ff7-46b7-a138-3c6e5ac946b4}'(/Default='IGuestDnDTarget') -> 5
+00:00:00.193253 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(869) long __cdecl vbpsCreateRegKeyA(struct VBPSREGSTATE *,struct HKEY__ *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.193278 main     1582: create key '{20191216-80f6-4266-8e20-16371f68fa25}' -> 5
+00:00:00.193291 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(964) long __cdecl vbpsCreateRegKeyWithDefaultValueAAEx(struct VBPSREGSTATE *,struct HKEY__ *,const char *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.193299 main     1582: create key '{20191216-80f6-4266-8e20-16371f68fa25}'(/Default='IReusableEvent') -> 5
+00:00:00.193452 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(869) long __cdecl vbpsCreateRegKeyA(struct VBPSREGSTATE *,struct HKEY__ *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.193495 main     1582: create key '{20191216-3cf5-4c0a-bc90-9b8d4cc94d89}' -> 5
+00:00:00.193519 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(964) long __cdecl vbpsCreateRegKeyWithDefaultValueAAEx(struct VBPSREGSTATE *,struct HKEY__ *,const char *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.193532 main     1582: create key '{20191216-3cf5-4c0a-bc90-9b8d4cc94d89}'(/Default='IGuestFileWriteEvent') -> 5
+00:00:00.193686 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(869) long __cdecl vbpsCreateRegKeyA(struct VBPSREGSTATE *,struct HKEY__ *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.193719 main     1582: create key '{20191216-f4f4-4dd0-9d30-c89b873247ec}' -> 5
+00:00:00.193726 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(964) long __cdecl vbpsCreateRegKeyWithDefaultValueAAEx(struct VBPSREGSTATE *,struct HKEY__ *,const char *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.193733 main     1582: create key '{20191216-f4f4-4dd0-9d30-c89b873247ec}'(/Default='IGuestMultiTouchEvent') -> 5
+00:00:00.193899 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(869) long __cdecl vbpsCreateRegKeyA(struct VBPSREGSTATE *,struct HKEY__ *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.193917 main     1582: create key '{20191216-35f3-4f4d-b5bb-ed0ecefd8538}' -> 5
+00:00:00.193923 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(964) long __cdecl vbpsCreateRegKeyWithDefaultValueAAEx(struct VBPSREGSTATE *,struct HKEY__ *,const char *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.193930 main     1582: create key '{20191216-35f3-4f4d-b5bb-ed0ecefd8538}'(/Default='IEventSource') -> 5
+00:00:00.194047 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(869) long __cdecl vbpsCreateRegKeyA(struct VBPSREGSTATE *,struct HKEY__ *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.194060 main     1582: create key '{20191216-3ff2-4f2e-8f09-07382ee25088}' -> 5
+00:00:00.194067 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(964) long __cdecl vbpsCreateRegKeyWithDefaultValueAAEx(struct VBPSREGSTATE *,struct HKEY__ *,const char *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.194073 main     1582: create key '{20191216-3ff2-4f2e-8f09-07382ee25088}'(/Default='IMachineRegisteredEvent') -> 5
+00:00:00.194394 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(869) long __cdecl vbpsCreateRegKeyA(struct VBPSREGSTATE *,struct HKEY__ *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.194412 main     1582: create key '{20191216-b7f1-4a5a-a4ef-a11dd9c2a458}' -> 5
+00:00:00.194421 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(964) long __cdecl vbpsCreateRegKeyWithDefaultValueAAEx(struct VBPSREGSTATE *,struct HKEY__ *,const char *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.194429 main     1582: create key '{20191216-b7f1-4a5a-a4ef-a11dd9c2a458}'(/Default='IMediumRegisteredEvent') -> 5
+00:00:00.194634 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(869) long __cdecl vbpsCreateRegKeyA(struct VBPSREGSTATE *,struct HKEY__ *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.194651 main     1582: create key '{20191216-26f1-4edb-8dd2-6bddd0912368}' -> 5
+00:00:00.194684 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(964) long __cdecl vbpsCreateRegKeyWithDefaultValueAAEx(struct VBPSREGSTATE *,struct HKEY__ *,const char *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.194696 main     1582: create key '{20191216-26f1-4edb-8dd2-6bddd0912368}'(/Default='IGuestPropertyChangedEvent') -> 5
+00:00:00.194977 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(869) long __cdecl vbpsCreateRegKeyA(struct VBPSREGSTATE *,struct HKEY__ *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.194988 main     1582: create key '{20191216-d8ed-44cf-85ac-c83a26c95a4d}' -> 5
+00:00:00.195019 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(964) long __cdecl vbpsCreateRegKeyWithDefaultValueAAEx(struct VBPSREGSTATE *,struct HKEY__ *,const char *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.195029 main     1582: create key '{20191216-d8ed-44cf-85ac-c83a26c95a4d}'(/Default='IToken') -> 5
+00:00:00.195257 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(869) long __cdecl vbpsCreateRegKeyA(struct VBPSREGSTATE *,struct HKEY__ *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.195272 main     1582: create key '{20191216-c6ea-45b6-9d43-dc6f70cc9f02}' -> 5
+00:00:00.195281 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(964) long __cdecl vbpsCreateRegKeyWithDefaultValueAAEx(struct VBPSREGSTATE *,struct HKEY__ *,const char *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.195311 main     1582: create key '{20191216-c6ea-45b6-9d43-dc6f70cc9f02}'(/Default='IGuestProcessRegisteredEvent') -> 5
+00:00:00.195573 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(869) long __cdecl vbpsCreateRegKeyA(struct VBPSREGSTATE *,struct HKEY__ *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.195587 main     1582: create key '{20191216-c8e9-466b-9660-45cb3e9979e4}' -> 5
+00:00:00.195594 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(964) long __cdecl vbpsCreateRegKeyWithDefaultValueAAEx(struct VBPSREGSTATE *,struct HKEY__ *,const char *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.195602 main     1582: create key '{20191216-c8e9-466b-9660-45cb3e9979e4}'(/Default='IExtPackManager') -> 5
+00:00:00.195854 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(869) long __cdecl vbpsCreateRegKeyA(struct VBPSREGSTATE *,struct HKEY__ *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.195894 main     1582: create key '{20191216-30e8-447e-99cb-e31becae6ae4}' -> 5
+00:00:00.195905 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(964) long __cdecl vbpsCreateRegKeyWithDefaultValueAAEx(struct VBPSREGSTATE *,struct HKEY__ *,const char *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.195912 main     1582: create key '{20191216-30e8-447e-99cb-e31becae6ae4}'(/Default='IProgress') -> 5
+00:00:00.196102 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(869) long __cdecl vbpsCreateRegKeyA(struct VBPSREGSTATE *,struct HKEY__ *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.196134 main     1582: create key '{20191216-8ce7-469f-a4c2-6476f581ff72}' -> 5
+00:00:00.196143 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(964) long __cdecl vbpsCreateRegKeyWithDefaultValueAAEx(struct VBPSREGSTATE *,struct HKEY__ *,const char *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.196341 main     1582: create key '{20191216-8ce7-469f-a4c2-6476f581ff72}'(/Default='IProgressTaskCompletedEvent') -> 5
+00:00:00.196635 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(869) long __cdecl vbpsCreateRegKeyA(struct VBPSREGSTATE *,struct HKEY__ *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.196650 main     1582: create key '{20191216-32e7-4f6c-85ee-422304c71b90}' -> 5
+00:00:00.196657 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(964) long __cdecl vbpsCreateRegKeyWithDefaultValueAAEx(struct VBPSREGSTATE *,struct HKEY__ *,const char *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.196665 main     1582: create key '{20191216-32e7-4f6c-85ee-422304c71b90}'(/Default='IEventListener') -> 5
+00:00:00.196841 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(869) long __cdecl vbpsCreateRegKeyA(struct VBPSREGSTATE *,struct HKEY__ *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.196854 main     1582: create key '{20191216-3ee4-11e9-b872-cb9447aad965}' -> 5
+00:00:00.196862 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(964) long __cdecl vbpsCreateRegKeyWithDefaultValueAAEx(struct VBPSREGSTATE *,struct HKEY__ *,const char *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.196869 main     1582: create key '{20191216-3ee4-11e9-b872-cb9447aad965}'(/Default='IVirtualSystemDescriptionForm') -> 5
+00:00:00.197013 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(869) long __cdecl vbpsCreateRegKeyA(struct VBPSREGSTATE *,struct HKEY__ *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.197025 main     1582: create key '{20191216-80e1-4a8a-93a1-67c5f92a838a}' -> 5
+00:00:00.197033 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(964) long __cdecl vbpsCreateRegKeyWithDefaultValueAAEx(struct VBPSREGSTATE *,struct HKEY__ *,const char *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.197041 main     1582: create key '{20191216-80e1-4a8a-93a1-67c5f92a838a}'(/Default='ICertificate') -> 5
+00:00:00.197204 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(869) long __cdecl vbpsCreateRegKeyA(struct VBPSREGSTATE *,struct HKEY__ *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.197216 main     1582: create key '{20191216-44e0-ca69-e9e0-d4907ceccbe5}' -> 5
+00:00:00.197224 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(964) long __cdecl vbpsCreateRegKeyWithDefaultValueAAEx(struct VBPSREGSTATE *,struct HKEY__ *,const char *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.197232 main     1582: create key '{20191216-44e0-ca69-e9e0-d4907ceccbe5}'(/Default='IGuestFsObjInfo') -> 5
+00:00:00.197364 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(869) long __cdecl vbpsCreateRegKeyA(struct VBPSREGSTATE *,struct HKEY__ *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.197376 main     1582: create key '{20191216-aedf-461c-be2c-99e91bdad8a1}' -> 5
+00:00:00.197383 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(964) long __cdecl vbpsCreateRegKeyWithDefaultValueAAEx(struct VBPSREGSTATE *,struct HKEY__ *,const char *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.197391 main     1582: create key '{20191216-aedf-461c-be2c-99e91bdad8a1}'(/Default='IHostUSBDeviceFilter') -> 5
+00:00:00.197558 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(869) long __cdecl vbpsCreateRegKeyA(struct VBPSREGSTATE *,struct HKEY__ *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.197575 main     1582: create key '{20191216-48df-438d-85eb-98ffd70d18c9}' -> 5
+00:00:00.197585 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(964) long __cdecl vbpsCreateRegKeyWithDefaultValueAAEx(struct VBPSREGSTATE *,struct HKEY__ *,const char *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.197592 main     1582: create key '{20191216-48df-438d-85eb-98ffd70d18c9}'(/Default='IMachineStateChangedEvent') -> 5
+00:00:00.197734 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(869) long __cdecl vbpsCreateRegKeyA(struct VBPSREGSTATE *,struct HKEY__ *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.197746 main     1582: create key '{20191216-44de-1653-b717-2ebf0ca9b664}' -> 5
+00:00:00.197754 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(964) long __cdecl vbpsCreateRegKeyWithDefaultValueAAEx(struct VBPSREGSTATE *,struct HKEY__ *,const char *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.197761 main     1582: create key '{20191216-44de-1653-b717-2ebf0ca9b664}'(/Default='IGuestFile') -> 5
+00:00:00.197939 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(869) long __cdecl vbpsCreateRegKeyA(struct VBPSREGSTATE *,struct HKEY__ *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.197972 main     1582: create key '{20191216-7bdc-11e9-8bc2-8ffdb8b19219}' -> 5
+00:00:00.198003 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(964) long __cdecl vbpsCreateRegKeyWithDefaultValueAAEx(struct VBPSREGSTATE *,struct HKEY__ *,const char *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.198011 main     1582: create key '{20191216-7bdc-11e9-8bc2-8ffdb8b19219}'(/Default='IRangedIntegerFormValue') -> 5
+00:00:00.198208 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(869) long __cdecl vbpsCreateRegKeyA(struct VBPSREGSTATE *,struct HKEY__ *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.198241 main     1582: create key '{20191216-5fdc-4aba-aff5-6a39bbd7c38b}' -> 5
+00:00:00.198251 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(964) long __cdecl vbpsCreateRegKeyWithDefaultValueAAEx(struct VBPSREGSTATE *,struct HKEY__ *,const char *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.198258 main     1582: create key '{20191216-5fdc-4aba-aff5-6a39bbd7c38b}'(/Default='IHost') -> 5
+00:00:00.198548 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(869) long __cdecl vbpsCreateRegKeyA(struct VBPSREGSTATE *,struct HKEY__ *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.198582 main     1582: create key '{20191216-e5db-4d2c-baaa-c71053a6236d}' -> 5
+00:00:00.198593 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(964) long __cdecl vbpsCreateRegKeyWithDefaultValueAAEx(struct VBPSREGSTATE *,struct HKEY__ *,const char *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.198601 main     1582: create key '{20191216-e5db-4d2c-baaa-c71053a6236d}'(/Default='IGuestOSType') -> 5
+00:00:00.198860 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(869) long __cdecl vbpsCreateRegKeyA(struct VBPSREGSTATE *,struct HKEY__ *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.198892 main     1582: create key '{20191216-b7db-4616-aac6-cfb94d89ba78}' -> 5
+00:00:00.198907 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(964) long __cdecl vbpsCreateRegKeyWithDefaultValueAAEx(struct VBPSREGSTATE *,struct HKEY__ *,const char *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.198917 main     1582: create key '{20191216-b7db-4616-aac6-cfb94d89ba78}'(/Default='IGuestProcessInputNotifyEvent') -> 5
+00:00:00.199249 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(869) long __cdecl vbpsCreateRegKeyA(struct VBPSREGSTATE *,struct HKEY__ *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.199272 main     1582: create key '{20191216-42da-c94b-8aec-21968e08355d}' -> 5
+00:00:00.199281 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(964) long __cdecl vbpsCreateRegKeyWithDefaultValueAAEx(struct VBPSREGSTATE *,struct HKEY__ *,const char *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.199289 main     1582: create key '{20191216-42da-c94b-8aec-21968e08355d}'(/Default='IDnDSource') -> 5
+00:00:00.199512 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(869) long __cdecl vbpsCreateRegKeyA(struct VBPSREGSTATE *,struct HKEY__ *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.199558 main     1582: create key '{20191216-07da-41ec-ac4a-3dd99db35594}' -> 5
+00:00:00.199615 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(964) long __cdecl vbpsCreateRegKeyWithDefaultValueAAEx(struct VBPSREGSTATE *,struct HKEY__ *,const char *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.199627 main     1582: create key '{20191216-07da-41ec-ac4a-3dd99db35594}'(/Default='ICloudProvider') -> 5
+00:00:00.199815 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(869) long __cdecl vbpsCreateRegKeyA(struct VBPSREGSTATE *,struct HKEY__ *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.199826 main     1582: create key '{20191216-61d9-4940-a084-e6bb29af3d83}' -> 5
+00:00:00.199834 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(964) long __cdecl vbpsCreateRegKeyWithDefaultValueAAEx(struct VBPSREGSTATE *,struct HKEY__ *,const char *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.199842 main     1582: create key '{20191216-61d9-4940-a084-e6bb29af3d83}'(/Default='IUSBControllerChangedEvent') -> 5
+00:00:00.199996 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(869) long __cdecl vbpsCreateRegKeyA(struct VBPSREGSTATE *,struct HKEY__ *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.200018 main     1582: create key '{20191216-58d9-43ae-8b03-c1fd7088ef15}' -> 5
+00:00:00.200025 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(964) long __cdecl vbpsCreateRegKeyWithDefaultValueAAEx(struct VBPSREGSTATE *,struct HKEY__ *,const char *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.200032 main     1582: create key '{20191216-58d9-43ae-8b03-c1fd7088ef15}'(/Default='IDataStream') -> 5
+00:00:00.200173 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(869) long __cdecl vbpsCreateRegKeyA(struct VBPSREGSTATE *,struct HKEY__ *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.200185 main     1582: create key '{20191216-c9d6-4742-957c-a6fd52e8c4ae}' -> 5
+00:00:00.200192 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(964) long __cdecl vbpsCreateRegKeyWithDefaultValueAAEx(struct VBPSREGSTATE *,struct HKEY__ *,const char *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.200206 main     1582: create key '{20191216-c9d6-4742-957c-a6fd52e8c4ae}'(/Default='IBandwidthControl') -> 5
+00:00:00.200342 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(869) long __cdecl vbpsCreateRegKeyA(struct VBPSREGSTATE *,struct HKEY__ *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.200355 main     1582: create key '{20191216-f6d4-4ab6-9cbf-558eb8959a6a}' -> 5
+00:00:00.200362 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(964) long __cdecl vbpsCreateRegKeyWithDefaultValueAAEx(struct VBPSREGSTATE *,struct HKEY__ *,const char *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.200371 main     1582: create key '{20191216-f6d4-4ab6-9cbf-558eb8959a6a}'(/Default='IEventSourceChangedEvent') -> 5
+00:00:00.200525 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(869) long __cdecl vbpsCreateRegKeyA(struct VBPSREGSTATE *,struct HKEY__ *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.200537 main     1582: create key '{20191216-dad4-4496-85cf-3f76bcb3b5fa}' -> 5
+00:00:00.200544 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(964) long __cdecl vbpsCreateRegKeyWithDefaultValueAAEx(struct VBPSREGSTATE *,struct HKEY__ *,const char *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.200552 main     1582: create key '{20191216-dad4-4496-85cf-3f76bcb3b5fa}'(/Default='ISnapshot') -> 5
+00:00:00.200677 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(869) long __cdecl vbpsCreateRegKeyA(struct VBPSREGSTATE *,struct HKEY__ *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.200689 main     1582: create key '{20191216-2fd3-47e2-a5dc-2c2431d833cc}' -> 5
+00:00:00.200696 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(964) long __cdecl vbpsCreateRegKeyWithDefaultValueAAEx(struct VBPSREGSTATE *,struct HKEY__ *,const char *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.200703 main     1582: create key '{20191216-2fd3-47e2-a5dc-2c2431d833cc}'(/Default='IVFSExplorer') -> 5
+00:00:00.200923 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(869) long __cdecl vbpsCreateRegKeyA(struct VBPSREGSTATE *,struct HKEY__ *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.200958 main     1582: create key '{20191216-23d0-430a-a7ff-7ed7f05534bc}' -> 5
+00:00:00.200968 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(964) long __cdecl vbpsCreateRegKeyWithDefaultValueAAEx(struct VBPSREGSTATE *,struct HKEY__ *,const char *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.200975 main     1582: create key '{20191216-23d0-430a-a7ff-7ed7f05534bc}'(/Default='INATNetworkPortForwardEvent') -> 5
+00:00:00.201621 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(869) long __cdecl vbpsCreateRegKeyA(struct VBPSREGSTATE *,struct HKEY__ *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.201645 main     1582: create key '{20191216-04d0-4db6-8d66-dc2f033120e1}' -> 5
+00:00:00.201653 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(964) long __cdecl vbpsCreateRegKeyWithDefaultValueAAEx(struct VBPSREGSTATE *,struct HKEY__ *,const char *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.201661 main     1582: create key '{20191216-04d0-4db6-8d66-dc2f033120e1}'(/Default='IAudioAdapterChangedEvent') -> 5
+00:00:00.202357 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(869) long __cdecl vbpsCreateRegKeyA(struct VBPSREGSTATE *,struct HKEY__ *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.202521 main     1582: create key '{20191216-1bcf-4218-9807-04e036cc70f1}' -> 5
+00:00:00.202547 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(964) long __cdecl vbpsCreateRegKeyWithDefaultValueAAEx(struct VBPSREGSTATE *,struct HKEY__ *,const char *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.202555 main     1582: create key '{20191216-1bcf-4218-9807-04e036cc70f1}'(/Default='IProgressPercentageChangedEvent') -> 5
+00:00:00.202777 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(869) long __cdecl vbpsCreateRegKeyA(struct VBPSREGSTATE *,struct HKEY__ *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.202800 main     1582: create key '{20191216-92c9-4a77-9d35-e058b39fe0b9}' -> 5
+00:00:00.202807 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(964) long __cdecl vbpsCreateRegKeyWithDefaultValueAAEx(struct VBPSREGSTATE *,struct HKEY__ *,const char *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.202844 main     1582: create key '{20191216-92c9-4a77-9d35-e058b39fe0b9}'(/Default='ICanShowWindowEvent') -> 5
+00:00:00.202998 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(869) long __cdecl vbpsCreateRegKeyA(struct VBPSREGSTATE *,struct HKEY__ *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.203010 main     1582: create key '{20191216-47c7-4a3f-aae1-1b516817db41}' -> 5
+00:00:00.203069 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(964) long __cdecl vbpsCreateRegKeyWithDefaultValueAAEx(struct VBPSREGSTATE *,struct HKEY__ *,const char *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.203094 main     1582: create key '{20191216-47c7-4a3f-aae1-1b516817db41}'(/Default='IRecordingSettings') -> 5
+00:00:00.203266 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(869) long __cdecl vbpsCreateRegKeyA(struct VBPSREGSTATE *,struct HKEY__ *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.203429 main     1582: create key '{20191216-1ec6-4883-801d-77f56cfd0103}' -> 5
+00:00:00.203456 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(964) long __cdecl vbpsCreateRegKeyWithDefaultValueAAEx(struct VBPSREGSTATE *,struct HKEY__ *,const char *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.203470 main     1582: create key '{20191216-1ec6-4883-801d-77f56cfd0103}'(/Default='INetworkAdapterChangedEvent') -> 5
+00:00:00.204126 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(869) long __cdecl vbpsCreateRegKeyA(struct VBPSREGSTATE *,struct HKEY__ *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.204157 main     1582: create key '{20191216-f4c4-4020-a185-0d2881bcfa8b}' -> 5
+00:00:00.204164 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(964) long __cdecl vbpsCreateRegKeyWithDefaultValueAAEx(struct VBPSREGSTATE *,struct HKEY__ *,const char *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.204172 main     1582: create key '{20191216-f4c4-4020-a185-0d2881bcfa8b}'(/Default='IDHCPGlobalConfig') -> 5
+00:00:00.204343 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(869) long __cdecl vbpsCreateRegKeyA(struct VBPSREGSTATE *,struct HKEY__ *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.204381 main     1582: create key '{20191216-00c2-4484-0077-c057003d9c90}' -> 5
+00:00:00.204395 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(964) long __cdecl vbpsCreateRegKeyWithDefaultValueAAEx(struct VBPSREGSTATE *,struct HKEY__ *,const char *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.204404 main     1582: create key '{20191216-00c2-4484-0077-c057003d9c90}'(/Default='IInternalMachineControl') -> 5
+00:00:00.204550 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(869) long __cdecl vbpsCreateRegKeyA(struct VBPSREGSTATE *,struct HKEY__ *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.204563 main     1582: create key '{20191216-1ec0-4c0f-857f-fbe2a737a256}' -> 5
+00:00:00.204571 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(964) long __cdecl vbpsCreateRegKeyWithDefaultValueAAEx(struct VBPSREGSTATE *,struct HKEY__ *,const char *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.204578 main     1582: create key '{20191216-1ec0-4c0f-857f-fbe2a737a256}'(/Default='IGuestUserStateChangedEvent') -> 5
+00:00:00.204697 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(869) long __cdecl vbpsCreateRegKeyA(struct VBPSREGSTATE *,struct HKEY__ *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.204709 main     1582: create key '{20191216-febe-4049-b476-1292a8e45b09}' -> 5
+00:00:00.204718 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(964) long __cdecl vbpsCreateRegKeyWithDefaultValueAAEx(struct VBPSREGSTATE *,struct HKEY__ *,const char *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.204728 main     1582: create key '{20191216-febe-4049-b476-1292a8e45b09}'(/Default='IGraphicsAdapter') -> 5
+00:00:00.204844 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(869) long __cdecl vbpsCreateRegKeyA(struct VBPSREGSTATE *,struct HKEY__ *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.204857 main     1582: create key '{20191216-eabd-4fa6-960a-f1756c99ea1c}' -> 5
+00:00:00.204865 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(964) long __cdecl vbpsCreateRegKeyWithDefaultValueAAEx(struct VBPSREGSTATE *,struct HKEY__ *,const char *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.204873 main     1582: create key '{20191216-eabd-4fa6-960a-f1756c99ea1c}'(/Default='IGuestSessionRegisteredEvent') -> 5
+00:00:00.204990 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(869) long __cdecl vbpsCreateRegKeyA(struct VBPSREGSTATE *,struct HKEY__ *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.205002 main     1582: create key '{20191216-e9bb-49b3-bfc7-c5171e93ef38}' -> 5
+00:00:00.205009 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(964) long __cdecl vbpsCreateRegKeyWithDefaultValueAAEx(struct VBPSREGSTATE *,struct HKEY__ *,const char *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.205017 main     1582: create key '{20191216-e9bb-49b3-bfc7-c5171e93ef38}'(/Default='IGuestProcessIOEvent') -> 5
+00:00:00.205126 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(869) long __cdecl vbpsCreateRegKeyA(struct VBPSREGSTATE *,struct HKEY__ *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.205141 main     1582: create key '{20191216-b5bb-4316-a900-5eb28d3413df}' -> 5
+00:00:00.205148 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(964) long __cdecl vbpsCreateRegKeyWithDefaultValueAAEx(struct VBPSREGSTATE *,struct HKEY__ *,const char *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.205161 main     1582: create key '{20191216-b5bb-4316-a900-5eb28d3413df}'(/Default='IMachine') -> 5
+00:00:00.205284 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(869) long __cdecl vbpsCreateRegKeyA(struct VBPSREGSTATE *,struct HKEY__ *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.205295 main     1582: create key '{20191216-e8b8-4838-b10c-45ba193734c1}' -> 5
+00:00:00.205302 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(964) long __cdecl vbpsCreateRegKeyWithDefaultValueAAEx(struct VBPSREGSTATE *,struct HKEY__ *,const char *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.205310 main     1582: create key '{20191216-e8b8-4838-b10c-45ba193734c1}'(/Default='IMouse') -> 5
+00:00:00.206251 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(869) long __cdecl vbpsCreateRegKeyA(struct VBPSREGSTATE *,struct HKEY__ *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.206278 main     1582: create key '{20191216-34b8-42d3-acfb-7e96daf77c22}' -> 5
+00:00:00.206286 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(964) long __cdecl vbpsCreateRegKeyWithDefaultValueAAEx(struct VBPSREGSTATE *,struct HKEY__ *,const char *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.206294 main     1582: create key '{20191216-34b8-42d3-acfb-7e96daf77c22}'(/Default='ISnapshotEvent') -> 5
+00:00:00.206451 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(869) long __cdecl vbpsCreateRegKeyA(struct VBPSREGSTATE *,struct HKEY__ *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.206464 main     1582: create key '{20191216-f7b7-4b05-900e-2a9253c00f51}' -> 5
+00:00:00.206472 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(964) long __cdecl vbpsCreateRegKeyWithDefaultValueAAEx(struct VBPSREGSTATE *,struct HKEY__ *,const char *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.206480 main     1582: create key '{20191216-f7b7-4b05-900e-2a9253c00f51}'(/Default='ICloudProfile') -> 5
+00:00:00.206620 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(869) long __cdecl vbpsCreateRegKeyA(struct VBPSREGSTATE *,struct HKEY__ *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.206635 main     1582: create key '{20191216-e1b7-4339-a549-f0878115596e}' -> 5
+00:00:00.206643 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(964) long __cdecl vbpsCreateRegKeyWithDefaultValueAAEx(struct VBPSREGSTATE *,struct HKEY__ *,const char *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.206650 main     1582: create key '{20191216-e1b7-4339-a549-f0878115596e}'(/Default='IVRDEServerInfoChangedEvent') -> 5
+00:00:00.206763 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(869) long __cdecl vbpsCreateRegKeyA(struct VBPSREGSTATE *,struct HKEY__ *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.206774 main     1582: create key '{20191216-bcb2-4905-a7ab-cc85448a742b}' -> 5
+00:00:00.206780 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(964) long __cdecl vbpsCreateRegKeyWithDefaultValueAAEx(struct VBPSREGSTATE *,struct HKEY__ *,const char *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.206787 main     1582: create key '{20191216-bcb2-4905-a7ab-cc85448a742b}'(/Default='IGuestProcessOutputEvent') -> 5
+00:00:00.206893 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(869) long __cdecl vbpsCreateRegKeyA(struct VBPSREGSTATE *,struct HKEY__ *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.206907 main     1582: create key '{20191216-71b2-4817-9a64-4ed12c17388e}' -> 5
+00:00:00.206913 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(964) long __cdecl vbpsCreateRegKeyWithDefaultValueAAEx(struct VBPSREGSTATE *,struct HKEY__ *,const char *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.206920 main     1582: create key '{20191216-71b2-4817-9a64-4ed12c17388e}'(/Default='ICPUChangedEvent') -> 5
+00:00:00.207022 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(869) long __cdecl vbpsCreateRegKeyA(struct VBPSREGSTATE *,struct HKEY__ *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.207031 main     1582: create key '{20191216-e4b1-486a-8f2e-747ae346c3e9}' -> 5
+00:00:00.207037 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(964) long __cdecl vbpsCreateRegKeyWithDefaultValueAAEx(struct VBPSREGSTATE *,struct HKEY__ *,const char *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.207044 main     1582: create key '{20191216-e4b1-486a-8f2e-747ae346c3e9}'(/Default='IDirectory') -> 5
+00:00:00.207150 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(869) long __cdecl vbpsCreateRegKeyA(struct VBPSREGSTATE *,struct HKEY__ *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.207160 main     1582: create key '{20191216-00b1-4e9d-0000-11fa00f9d583}' -> 5
+00:00:00.207167 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(964) long __cdecl vbpsCreateRegKeyWithDefaultValueAAEx(struct VBPSREGSTATE *,struct HKEY__ *,const char *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.207176 main     1582: create key '{20191216-00b1-4e9d-0000-11fa00f9d583}'(/Default='IClipboardFileTransferModeChangedEvent') -> 5
+00:00:00.207283 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(869) long __cdecl vbpsCreateRegKeyA(struct VBPSREGSTATE *,struct HKEY__ *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.207292 main     1582: create key '{20191216-93af-42a7-7f13-79ad6ef1a18d}' -> 5
+00:00:00.207298 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(964) long __cdecl vbpsCreateRegKeyWithDefaultValueAAEx(struct VBPSREGSTATE *,struct HKEY__ *,const char *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.207305 main     1582: create key '{20191216-93af-42a7-7f13-79ad6ef1a18d}'(/Default='IRecordingScreenSettings') -> 5
+00:00:00.207399 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(869) long __cdecl vbpsCreateRegKeyA(struct VBPSREGSTATE *,struct HKEY__ *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.207408 main     1582: create key '{20191216-a1a9-4ac2-8e80-c049af69dac8}' -> 5
+00:00:00.207414 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(964) long __cdecl vbpsCreateRegKeyWithDefaultValueAAEx(struct VBPSREGSTATE *,struct HKEY__ *,const char *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.207420 main     1582: create key '{20191216-a1a9-4ac2-8e80-c049af69dac8}'(/Default='IDHCPServer') -> 5
+00:00:00.207546 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(869) long __cdecl vbpsCreateRegKeyA(struct VBPSREGSTATE *,struct HKEY__ *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.207564 main     1582: create key '{20191216-81a9-4005-9d52-fc45a78bf3f5}' -> 5
+00:00:00.207574 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(964) long __cdecl vbpsCreateRegKeyWithDefaultValueAAEx(struct VBPSREGSTATE *,struct HKEY__ *,const char *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.207581 main     1582: create key '{20191216-81a9-4005-9d52-fc45a78bf3f5}'(/Default='IUSBDevice') -> 5
+00:00:00.207751 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(869) long __cdecl vbpsCreateRegKeyA(struct VBPSREGSTATE *,struct HKEY__ *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.207764 main     1582: create key '{20191216-7ba7-45a8-b26d-c91ae3754e37}' -> 5
+00:00:00.207771 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(964) long __cdecl vbpsCreateRegKeyWithDefaultValueAAEx(struct VBPSREGSTATE *,struct HKEY__ *,const char *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.207778 main     1582: create key '{20191216-7ba7-45a8-b26d-c91ae3754e37}'(/Default='IAudioAdapter') -> 5
+00:00:00.207919 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(869) long __cdecl vbpsCreateRegKeyA(struct VBPSREGSTATE *,struct HKEY__ *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.207932 main     1582: create key '{20191216-08a7-4c8f-910d-47aabd67253a}' -> 5
+00:00:00.207939 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(964) long __cdecl vbpsCreateRegKeyWithDefaultValueAAEx(struct VBPSREGSTATE *,struct HKEY__ *,const char *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.207945 main     1582: create key '{20191216-08a7-4c8f-910d-47aabd67253a}'(/Default='IRecordingChangedEvent') -> 5
+00:00:00.208060 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(869) long __cdecl vbpsCreateRegKeyA(struct VBPSREGSTATE *,struct HKEY__ *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.208072 main     1582: create key '{20191216-00a7-4104-0009-49bc00b2da80}' -> 5
+00:00:00.208078 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(964) long __cdecl vbpsCreateRegKeyWithDefaultValueAAEx(struct VBPSREGSTATE *,struct HKEY__ *,const char *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.208085 main     1582: create key '{20191216-00a7-4104-0009-49bc00b2da80}'(/Default='IMachineDebugger') -> 5
+00:00:00.208201 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(869) long __cdecl vbpsCreateRegKeyA(struct VBPSREGSTATE *,struct HKEY__ *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.208212 main     1582: create key '{20191216-73a5-46cc-8227-93fe57d006a6}' -> 5
+00:00:00.208219 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(964) long __cdecl vbpsCreateRegKeyWithDefaultValueAAEx(struct VBPSREGSTATE *,struct HKEY__ *,const char *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.208226 main     1582: create key '{20191216-73a5-46cc-8227-93fe57d006a6}'(/Default='IDHCPIndividualConfig') -> 5
+00:00:00.208349 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(869) long __cdecl vbpsCreateRegKeyA(struct VBPSREGSTATE *,struct HKEY__ *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.208361 main     1582: create key '{20191216-b4a4-44ce-85a8-127ac5eb59dc}' -> 5
+00:00:00.208367 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(964) long __cdecl vbpsCreateRegKeyWithDefaultValueAAEx(struct VBPSREGSTATE *,struct HKEY__ *,const char *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.208379 main     1582: create key '{20191216-b4a4-44ce-85a8-127ac5eb59dc}'(/Default='ICPUExecutionCapChangedEvent') -> 5
+00:00:00.208492 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(869) long __cdecl vbpsCreateRegKeyA(struct VBPSREGSTATE *,struct HKEY__ *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.208503 main     1582: create key '{20191216-4ba3-7903-2aa4-43988ba11554}' -> 5
+00:00:00.208509 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(964) long __cdecl vbpsCreateRegKeyWithDefaultValueAAEx(struct VBPSREGSTATE *,struct HKEY__ *,const char *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.208516 main     1582: create key '{20191216-4ba3-7903-2aa4-43988ba11554}'(/Default='IDnDTarget') -> 5
+00:00:00.208624 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(869) long __cdecl vbpsCreateRegKeyA(struct VBPSREGSTATE *,struct HKEY__ *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.208635 main     1582: create key '{20191216-70a2-487e-895e-d3fc9679f7b3}' -> 5
+00:00:00.208641 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(964) long __cdecl vbpsCreateRegKeyWithDefaultValueAAEx(struct VBPSREGSTATE *,struct HKEY__ *,const char *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.208648 main     1582: create key '{20191216-70a2-487e-895e-d3fc9679f7b3}'(/Default='IGuestFileRegisteredEvent') -> 5
+00:00:00.208761 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(869) long __cdecl vbpsCreateRegKeyA(struct VBPSREGSTATE *,struct HKEY__ *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.208772 main     1582: create key '{20191216-08a2-41af-a05f-d7c661abaebe}' -> 5
+00:00:00.208779 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(964) long __cdecl vbpsCreateRegKeyWithDefaultValueAAEx(struct VBPSREGSTATE *,struct HKEY__ *,const char *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.208785 main     1582: create key '{20191216-08a2-41af-a05f-d7c661abaebe}'(/Default='IVRDEServer') -> 5
+00:00:00.208899 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(869) long __cdecl vbpsCreateRegKeyA(struct VBPSREGSTATE *,struct HKEY__ *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.208910 main     1582: create key '{20191216-44a0-a470-ba20-27890b96dba9}' -> 5
+00:00:00.208917 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(964) long __cdecl vbpsCreateRegKeyWithDefaultValueAAEx(struct VBPSREGSTATE *,struct HKEY__ *,const char *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.208924 main     1582: create key '{20191216-44a0-a470-ba20-27890b96dba9}'(/Default='IHostNetworkInterface') -> 5
+00:00:00.209038 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(869) long __cdecl vbpsCreateRegKeyA(struct VBPSREGSTATE *,struct HKEY__ *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.209049 main     1582: create key '{20191216-4a9e-43f4-b7a7-54bd285e22f4}' -> 5
+00:00:00.209056 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(964) long __cdecl vbpsCreateRegKeyWithDefaultValueAAEx(struct VBPSREGSTATE *,struct HKEY__ *,const char *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.209063 main     1582: create key '{20191216-4a9e-43f4-b7a7-54bd285e22f4}'(/Default='ISnapshotDeletedEvent') -> 5
+00:00:00.209212 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(869) long __cdecl vbpsCreateRegKeyA(struct VBPSREGSTATE *,struct HKEY__ *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.209237 main     1582: create key '{20191216-929c-40e8-bf16-fea557cd8e7e}' -> 5
+00:00:00.209247 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(964) long __cdecl vbpsCreateRegKeyWithDefaultValueAAEx(struct VBPSREGSTATE *,struct HKEY__ *,const char *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.209255 main     1582: create key '{20191216-929c-40e8-bf16-fea557cd8e7e}'(/Default='ISystemProperties') -> 5
+00:00:00.209374 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(869) long __cdecl vbpsCreateRegKeyA(struct VBPSREGSTATE *,struct HKEY__ *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.209386 main     1582: create key '{20191216-659c-488b-835c-4eca7ae71c6c}' -> 5
+00:00:00.209393 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(964) long __cdecl vbpsCreateRegKeyWithDefaultValueAAEx(struct VBPSREGSTATE *,struct HKEY__ *,const char *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.209400 main     1582: create key '{20191216-659c-488b-835c-4eca7ae71c6c}'(/Default='ISerialPortChangedEvent') -> 5
+00:00:00.209521 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(869) long __cdecl vbpsCreateRegKeyA(struct VBPSREGSTATE *,struct HKEY__ *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.209532 main     1582: create key '{20191216-319c-4e7e-8150-c5837bd265f6}' -> 5
+00:00:00.209539 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(964) long __cdecl vbpsCreateRegKeyWithDefaultValueAAEx(struct VBPSREGSTATE *,struct HKEY__ *,const char *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.209546 main     1582: create key '{20191216-319c-4e7e-8150-c5837bd265f6}'(/Default='IGuestMouseEvent') -> 5
+00:00:00.209664 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(869) long __cdecl vbpsCreateRegKeyA(struct VBPSREGSTATE *,struct HKEY__ *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.209676 main     1582: create key '{20191216-4a9b-1727-bee2-5585105b9eed}' -> 5
+00:00:00.209683 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(964) long __cdecl vbpsCreateRegKeyWithDefaultValueAAEx(struct VBPSREGSTATE *,struct HKEY__ *,const char *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.209690 main     1582: create key '{20191216-4a9b-1727-bee2-5585105b9eed}'(/Default='IConsole') -> 5
+00:00:00.210855 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(869) long __cdecl vbpsCreateRegKeyA(struct VBPSREGSTATE *,struct HKEY__ *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.210873 main     1582: create key '{20191216-799a-4489-86cd-fe8e45b2ff8e}' -> 5
+00:00:00.210881 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(964) long __cdecl vbpsCreateRegKeyWithDefaultValueAAEx(struct VBPSREGSTATE *,struct HKEY__ *,const char *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.210890 main     1582: create key '{20191216-799a-4489-86cd-fe8e45b2ff8e}'(/Default='ISessionStateChangedEvent') -> 5
+00:00:00.211034 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(869) long __cdecl vbpsCreateRegKeyA(struct VBPSREGSTATE *,struct HKEY__ *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.211051 main     1582: create key '{20191216-bf98-47fb-ab2f-b5177533f493}' -> 5
+00:00:00.211061 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(964) long __cdecl vbpsCreateRegKeyWithDefaultValueAAEx(struct VBPSREGSTATE *,struct HKEY__ *,const char *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.211069 main     1582: create key '{20191216-bf98-47fb-ab2f-b5177533f493}'(/Default='IStorageController') -> 5
+00:00:00.211198 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(869) long __cdecl vbpsCreateRegKeyA(struct VBPSREGSTATE *,struct HKEY__ *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.211210 main     1582: create key '{20191216-ac97-4c16-b3e2-81bd8a57cc27}' -> 5
+00:00:00.211217 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(964) long __cdecl vbpsCreateRegKeyWithDefaultValueAAEx(struct VBPSREGSTATE *,struct HKEY__ *,const char *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.211225 main     1582: create key '{20191216-ac97-4c16-b3e2-81bd8a57cc27}'(/Default='IHostVideoInputDevice') -> 5
+00:00:00.211348 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(869) long __cdecl vbpsCreateRegKeyA(struct VBPSREGSTATE *,struct HKEY__ *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.211360 main     1582: create key '{20191216-7997-4595-a731-3a509db604e5}' -> 5
+00:00:00.211367 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(964) long __cdecl vbpsCreateRegKeyWithDefaultValueAAEx(struct VBPSREGSTATE *,struct HKEY__ *,const char *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.211375 main     1582: create key '{20191216-7997-4595-a731-3a509db604e5}'(/Default='IClipboardModeChangedEvent') -> 5
+00:00:00.211540 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(869) long __cdecl vbpsCreateRegKeyA(struct VBPSREGSTATE *,struct HKEY__ *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.211554 main     1582: create key '{20191216-c196-4d26-b8db-4c8c389f1f82}' -> 5
+00:00:00.211565 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(964) long __cdecl vbpsCreateRegKeyWithDefaultValueAAEx(struct VBPSREGSTATE *,struct HKEY__ *,const char *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.211574 main     1582: create key '{20191216-c196-4d26-b8db-4c8c389f1f82}'(/Default='IVirtualSystemDescription') -> 5
+00:00:00.211697 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(869) long __cdecl vbpsCreateRegKeyA(struct VBPSREGSTATE *,struct HKEY__ *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.211709 main     1582: create key '{20191216-0d96-40ed-ae46-a564d484325e}' -> 5
+00:00:00.211716 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(964) long __cdecl vbpsCreateRegKeyWithDefaultValueAAEx(struct VBPSREGSTATE *,struct HKEY__ *,const char *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.211724 main     1582: create key '{20191216-0d96-40ed-ae46-a564d484325e}'(/Default='IMachineEvent') -> 5
+00:00:00.211990 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(869) long __cdecl vbpsCreateRegKeyA(struct VBPSREGSTATE *,struct HKEY__ *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.212005 main     1582: create key '{20191216-7193-426c-a41f-522e8f537fa0}' -> 5
+00:00:00.212014 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(964) long __cdecl vbpsCreateRegKeyWithDefaultValueAAEx(struct VBPSREGSTATE *,struct HKEY__ *,const char *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.212167 main     1582: create key '{20191216-7193-426c-a41f-522e8f537fa0}'(/Default='IUnattended') -> 5
+00:00:00.212326 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(869) long __cdecl vbpsCreateRegKeyA(struct VBPSREGSTATE *,struct HKEY__ *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.212339 main     1582: create key '{20191216-e191-400b-840e-970f3dad7296}' -> 5
+00:00:00.212346 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(964) long __cdecl vbpsCreateRegKeyWithDefaultValueAAEx(struct VBPSREGSTATE *,struct HKEY__ *,const char *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.212353 main     1582: create key '{20191216-e191-400b-840e-970f3dad7296}'(/Default='IPCIAddress') -> 5
+00:00:00.212495 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(869) long __cdecl vbpsCreateRegKeyA(struct VBPSREGSTATE *,struct HKEY__ *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.212507 main     1582: create key '{20191216-8690-11e9-b83d-5719e53cf1de}' -> 5
+00:00:00.212513 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(964) long __cdecl vbpsCreateRegKeyWithDefaultValueAAEx(struct VBPSREGSTATE *,struct HKEY__ *,const char *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.212520 main     1582: create key '{20191216-8690-11e9-b83d-5719e53cf1de}'(/Default='IDisplay') -> 5
+00:00:00.212647 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(869) long __cdecl vbpsCreateRegKeyA(struct VBPSREGSTATE *,struct HKEY__ *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.212660 main     1582: create key '{20191216-808e-11e9-b773-133d9330f849}' -> 5
+00:00:00.212667 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(964) long __cdecl vbpsCreateRegKeyWithDefaultValueAAEx(struct VBPSREGSTATE *,struct HKEY__ *,const char *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.212674 main     1582: create key '{20191216-808e-11e9-b773-133d9330f849}'(/Default='IGuestMonitorInfoChangedEvent') -> 5
+00:00:00.212794 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(869) long __cdecl vbpsCreateRegKeyA(struct VBPSREGSTATE *,struct HKEY__ *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.212806 main     1582: create key '{20191216-cb8d-4382-90ba-b7da78a74573}' -> 5
+00:00:00.212813 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(964) long __cdecl vbpsCreateRegKeyWithDefaultValueAAEx(struct VBPSREGSTATE *,struct HKEY__ *,const char *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.212820 main     1582: create key '{20191216-cb8d-4382-90ba-b7da78a74573}'(/Default='IVirtualBoxClient') -> 5
+00:00:00.212937 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(869) long __cdecl vbpsCreateRegKeyA(struct VBPSREGSTATE *,struct HKEY__ *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.212948 main     1582: create key '{20191216-1f8b-4692-abb4-462429fae5e9}' -> 5
+00:00:00.212955 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(964) long __cdecl vbpsCreateRegKeyWithDefaultValueAAEx(struct VBPSREGSTATE *,struct HKEY__ *,const char *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.212962 main     1582: create key '{20191216-1f8b-4692-abb4-462429fae5e9}'(/Default='IDnDModeChangedEvent') -> 5
+00:00:00.213085 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(869) long __cdecl vbpsCreateRegKeyA(struct VBPSREGSTATE *,struct HKEY__ *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.213099 main     1582: create key '{20191216-3e8a-11e9-825c-ab7b2cabce23}' -> 5
+00:00:00.213106 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(964) long __cdecl vbpsCreateRegKeyWithDefaultValueAAEx(struct VBPSREGSTATE *,struct HKEY__ *,const char *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.213113 main     1582: create key '{20191216-3e8a-11e9-825c-ab7b2cabce23}'(/Default='IChoiceFormValue') -> 5
+00:00:00.213229 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(869) long __cdecl vbpsCreateRegKeyA(struct VBPSREGSTATE *,struct HKEY__ *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.213243 main     1582: create key '{20191216-3e8a-11e9-8082-db8ae479ef87}' -> 5
+00:00:00.213252 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(964) long __cdecl vbpsCreateRegKeyWithDefaultValueAAEx(struct VBPSREGSTATE *,struct HKEY__ *,const char *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.213262 main     1582: create key '{20191216-3e8a-11e9-8082-db8ae479ef87}'(/Default='IForm') -> 5
+00:00:00.213387 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(869) long __cdecl vbpsCreateRegKeyA(struct VBPSREGSTATE *,struct HKEY__ *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.213399 main     1582: create key '{20191216-6989-4002-80cf-3607f377d40c}' -> 5
+00:00:00.213406 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(964) long __cdecl vbpsCreateRegKeyWithDefaultValueAAEx(struct VBPSREGSTATE *,struct HKEY__ *,const char *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.213413 main     1582: create key '{20191216-6989-4002-80cf-3607f377d40c}'(/Default='IUSBProxyBackend') -> 5
+00:00:00.213549 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(869) long __cdecl vbpsCreateRegKeyA(struct VBPSREGSTATE *,struct HKEY__ *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.213562 main     1582: create key '{20191216-4289-ef4e-8e6a-e5b07816b631}' -> 5
+00:00:00.213569 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(964) long __cdecl vbpsCreateRegKeyWithDefaultValueAAEx(struct VBPSREGSTATE *,struct HKEY__ *,const char *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.213575 main     1582: create key '{20191216-4289-ef4e-8e6a-e5b07816b631}'(/Default='IUSBDeviceFilter') -> 5
+00:00:00.213700 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(869) long __cdecl vbpsCreateRegKeyA(struct VBPSREGSTATE *,struct HKEY__ *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.213713 main     1582: create key '{20191216-6588-40a3-9b0a-68c05ba52c4b}' -> 5
+00:00:00.213721 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(964) long __cdecl vbpsCreateRegKeyWithDefaultValueAAEx(struct VBPSREGSTATE *,struct HKEY__ *,const char *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.213733 main     1582: create key '{20191216-6588-40a3-9b0a-68c05ba52c4b}'(/Default='IGuestProcessEvent') -> 5
+00:00:00.213864 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(869) long __cdecl vbpsCreateRegKeyA(struct VBPSREGSTATE *,struct HKEY__ *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.213882 main     1582: create key '{20191216-3188-4c8c-8756-1395e8cb691c}' -> 5
+00:00:00.213892 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(964) long __cdecl vbpsCreateRegKeyWithDefaultValueAAEx(struct VBPSREGSTATE *,struct HKEY__ *,const char *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.213902 main     1582: create key '{20191216-3188-4c8c-8756-1395e8cb691c}'(/Default='IVRDEServerChangedEvent') -> 5
+00:00:00.214051 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(869) long __cdecl vbpsCreateRegKeyA(struct VBPSREGSTATE *,struct HKEY__ *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.214065 main     1582: create key '{20191216-2e88-4436-83d7-50f3e64d0503}' -> 5
+00:00:00.214073 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(964) long __cdecl vbpsCreateRegKeyWithDefaultValueAAEx(struct VBPSREGSTATE *,struct HKEY__ *,const char *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.214081 main     1582: create key '{20191216-2e88-4436-83d7-50f3e64d0503}'(/Default='IMachineDataChangedEvent') -> 5
+00:00:00.214298 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(869) long __cdecl vbpsCreateRegKeyA(struct VBPSREGSTATE *,struct HKEY__ *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.214313 main     1582: create key '{20191216-cc87-4f6e-a0e9-47bb7f2d4be5}' -> 5
+00:00:00.214321 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(964) long __cdecl vbpsCreateRegKeyWithDefaultValueAAEx(struct VBPSREGSTATE *,struct HKEY__ *,const char *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.214328 main     1582: create key '{20191216-cc87-4f6e-a0e9-47bb7f2d4be5}'(/Default='IInternalProgressControl') -> 5
+00:00:00.214462 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(869) long __cdecl vbpsCreateRegKeyA(struct VBPSREGSTATE *,struct HKEY__ *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.214477 main     1582: create key '{20191216-3e87-11e9-8af2-576e84223953}' -> 5
+00:00:00.214487 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(964) long __cdecl vbpsCreateRegKeyWithDefaultValueAAEx(struct VBPSREGSTATE *,struct HKEY__ *,const char *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.214494 main     1582: create key '{20191216-3e87-11e9-8af2-576e84223953}'(/Default='IBooleanFormValue') -> 5
+00:00:00.214610 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(869) long __cdecl vbpsCreateRegKeyA(struct VBPSREGSTATE *,struct HKEY__ *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.214622 main     1582: create key '{20191216-5f86-4d65-ad1b-87ca284fb1c8}' -> 5
+00:00:00.214630 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(964) long __cdecl vbpsCreateRegKeyWithDefaultValueAAEx(struct VBPSREGSTATE *,struct HKEY__ *,const char *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.214637 main     1582: create key '{20191216-5f86-4d65-ad1b-87ca284fb1c8}'(/Default='IMediumIO') -> 5
+00:00:00.214745 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(869) long __cdecl vbpsCreateRegKeyA(struct VBPSREGSTATE *,struct HKEY__ *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.214755 main     1582: create key '{20191216-ae84-4b8e-b0f3-5c20c35caac9}' -> 5
+00:00:00.214763 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(964) long __cdecl vbpsCreateRegKeyWithDefaultValueAAEx(struct VBPSREGSTATE *,struct HKEY__ *,const char *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.214775 main     1582: create key '{20191216-ae84-4b8e-b0f3-5c20c35caac9}'(/Default='IStorageDeviceChangedEvent') -> 5
+00:00:00.214887 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(869) long __cdecl vbpsCreateRegKeyA(struct VBPSREGSTATE *,struct HKEY__ *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.214900 main     1582: create key '{20191216-8384-11e9-921d-8b984e28a686}' -> 5
+00:00:00.214906 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(964) long __cdecl vbpsCreateRegKeyWithDefaultValueAAEx(struct VBPSREGSTATE *,struct HKEY__ *,const char *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.214915 main     1582: create key '{20191216-8384-11e9-921d-8b984e28a686}'(/Default='IStringFormValue') -> 5
+00:00:00.215022 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(869) long __cdecl vbpsCreateRegKeyA(struct VBPSREGSTATE *,struct HKEY__ *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.215032 main     1582: create key '{20191216-8084-11e9-b185-dbe296e54799}' -> 5
+00:00:00.215038 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(964) long __cdecl vbpsCreateRegKeyWithDefaultValueAAEx(struct VBPSREGSTATE *,struct HKEY__ *,const char *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.215045 main     1582: create key '{20191216-8084-11e9-b185-dbe296e54799}'(/Default='IDisplaySourceBitmap') -> 5
+00:00:00.215144 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(869) long __cdecl vbpsCreateRegKeyA(struct VBPSREGSTATE *,struct HKEY__ *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.215155 main     1582: create key '{20191216-aa82-4720-bc84-bd097b2b13b8}' -> 5
+00:00:00.215162 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(964) long __cdecl vbpsCreateRegKeyWithDefaultValueAAEx(struct VBPSREGSTATE *,struct HKEY__ *,const char *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.215168 main     1582: create key '{20191216-aa82-4720-bc84-bd097b2b13b8}'(/Default='IGuestAdditionsStatusChangedEvent') -> 5
+00:00:00.215271 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(869) long __cdecl vbpsCreateRegKeyA(struct VBPSREGSTATE *,struct HKEY__ *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.215280 main     1582: create key '{20191216-c380-4510-bc7c-19314a7352f1}' -> 5
+00:00:00.215287 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(964) long __cdecl vbpsCreateRegKeyWithDefaultValueAAEx(struct VBPSREGSTATE *,struct HKEY__ *,const char *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.215293 main     1582: create key '{20191216-c380-4510-bc7c-19314a7352f1}'(/Default='INATRedirectEvent') -> 5
+00:00:00.215397 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(869) long __cdecl vbpsCreateRegKeyA(struct VBPSREGSTATE *,struct HKEY__ *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.215408 main     1582: create key '{20191216-647d-45ac-8fe9-f49b3183ba37}' -> 5
+00:00:00.215414 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(964) long __cdecl vbpsCreateRegKeyWithDefaultValueAAEx(struct VBPSREGSTATE *,struct HKEY__ *,const char *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.215421 main     1582: create key '{20191216-647d-45ac-8fe9-f49b3183ba37}'(/Default='IGuestSessionEvent') -> 5
+00:00:00.215526 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(869) long __cdecl vbpsCreateRegKeyA(struct VBPSREGSTATE *,struct HKEY__ *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.215539 main     1582: create key '{20191216-057d-4391-b928-f14b06b710c5}' -> 5
+00:00:00.215546 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(964) long __cdecl vbpsCreateRegKeyWithDefaultValueAAEx(struct VBPSREGSTATE *,struct HKEY__ *,const char *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.215553 main     1582: create key '{20191216-057d-4391-b928-f14b06b710c5}'(/Default='IGuestFileEvent') -> 5
+00:00:00.215674 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(869) long __cdecl vbpsCreateRegKeyA(struct VBPSREGSTATE *,struct HKEY__ *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.215688 main     1582: create key '{20191216-da7c-44c8-a7ac-9f173490446a}' -> 5
+00:00:00.215695 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(964) long __cdecl vbpsCreateRegKeyWithDefaultValueAAEx(struct VBPSREGSTATE *,struct HKEY__ *,const char *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.215702 main     1582: create key '{20191216-da7c-44c8-a7ac-9f173490446a}'(/Default='IAdditionsStateChangedEvent') -> 5
+00:00:00.215824 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(869) long __cdecl vbpsCreateRegKeyA(struct VBPSREGSTATE *,struct HKEY__ *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.215835 main     1582: create key '{20191216-cc7b-431b-98b2-951fda8eab89}' -> 5
+00:00:00.215842 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(964) long __cdecl vbpsCreateRegKeyWithDefaultValueAAEx(struct VBPSREGSTATE *,struct HKEY__ *,const char *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.215849 main     1582: create key '{20191216-cc7b-431b-98b2-951fda8eab89}'(/Default='IHostUSBDevice') -> 5
+00:00:00.215963 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(869) long __cdecl vbpsCreateRegKeyA(struct VBPSREGSTATE *,struct HKEY__ *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.215974 main     1582: create key '{20191216-787b-44ab-b343-a082a3f2dfb1}' -> 5
+00:00:00.215982 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(964) long __cdecl vbpsCreateRegKeyWithDefaultValueAAEx(struct VBPSREGSTATE *,struct HKEY__ *,const char *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.215989 main     1582: create key '{20191216-787b-44ab-b343-a082a3f2dfb1}'(/Default='IMedium') -> 5
+00:00:00.216095 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(869) long __cdecl vbpsCreateRegKeyA(struct VBPSREGSTATE *,struct HKEY__ *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.216108 main     1582: create key '{20191216-477a-2497-6759-88b8292a5af0}' -> 5
+00:00:00.216114 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(964) long __cdecl vbpsCreateRegKeyWithDefaultValueAAEx(struct VBPSREGSTATE *,struct HKEY__ *,const char *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.216122 main     1582: create key '{20191216-477a-2497-6759-88b8292a5af0}'(/Default='IEmulatedUSB') -> 5
+00:00:00.216219 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(869) long __cdecl vbpsCreateRegKeyA(struct VBPSREGSTATE *,struct HKEY__ *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.216232 main     1582: create key '{20191216-8079-447a-a33e-47a69c7980db}' -> 5
+00:00:00.216241 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(964) long __cdecl vbpsCreateRegKeyWithDefaultValueAAEx(struct VBPSREGSTATE *,struct HKEY__ *,const char *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.216248 main     1582: create key '{20191216-8079-447a-a33e-47a69c7980db}'(/Default='ISnapshotChangedEvent') -> 5
+00:00:00.216346 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(869) long __cdecl vbpsCreateRegKeyA(struct VBPSREGSTATE *,struct HKEY__ *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.216355 main     1582: create key '{20191216-6679-422a-b629-51b06b0c6d93}' -> 5
+00:00:00.216362 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(964) long __cdecl vbpsCreateRegKeyWithDefaultValueAAEx(struct VBPSREGSTATE *,struct HKEY__ *,const char *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.216369 main     1582: create key '{20191216-6679-422a-b629-51b06b0c6d93}'(/Default='IUSBDeviceStateChangedEvent') -> 5
+00:00:00.216465 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(869) long __cdecl vbpsCreateRegKeyA(struct VBPSREGSTATE *,struct HKEY__ *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.216475 main     1582: create key '{20191216-0b79-4350-bdd9-a0376cd6e6e3}' -> 5
+00:00:00.216481 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(964) long __cdecl vbpsCreateRegKeyWithDefaultValueAAEx(struct VBPSREGSTATE *,struct HKEY__ *,const char *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.216488 main     1582: create key '{20191216-0b79-4350-bdd9-a0376cd6e6e3}'(/Default='IExtPackBase') -> 5
+00:00:00.216586 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(869) long __cdecl vbpsCreateRegKeyA(struct VBPSREGSTATE *,struct HKEY__ *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.216596 main     1582: create key '{20191216-0979-486c-baa1-3abb144dc82d}' -> 5
+00:00:00.216603 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(964) long __cdecl vbpsCreateRegKeyWithDefaultValueAAEx(struct VBPSREGSTATE *,struct HKEY__ *,const char *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.216611 main     1582: create key '{20191216-0979-486c-baa1-3abb144dc82d}'(/Default='IGuestFileStateChangedEvent') -> 5
+00:00:00.216712 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(869) long __cdecl vbpsCreateRegKeyA(struct VBPSREGSTATE *,struct HKEY__ *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.216722 main     1582: create key '{20191216-3e78-11e9-b25e-7768f80c0e07}' -> 5
+00:00:00.216729 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(964) long __cdecl vbpsCreateRegKeyWithDefaultValueAAEx(struct VBPSREGSTATE *,struct HKEY__ *,const char *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.216736 main     1582: create key '{20191216-3e78-11e9-b25e-7768f80c0e07}'(/Default='IFormValue') -> 5
+00:00:00.216834 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(869) long __cdecl vbpsCreateRegKeyA(struct VBPSREGSTATE *,struct HKEY__ *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.216845 main     1582: create key '{20191216-6b76-4805-8fab-00a9dcf4732b}' -> 5
+00:00:00.216851 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(964) long __cdecl vbpsCreateRegKeyWithDefaultValueAAEx(struct VBPSREGSTATE *,struct HKEY__ *,const char *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.216861 main     1582: create key '{20191216-6b76-4805-8fab-00a9dcf4732b}'(/Default='IFramebufferOverlay') -> 5
+00:00:00.216994 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(869) long __cdecl vbpsCreateRegKeyA(struct VBPSREGSTATE *,struct HKEY__ *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.217009 main     1582: create key '{20191216-4a75-437e-b0bb-7e7c90d0df2a}' -> 5
+00:00:00.217022 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(964) long __cdecl vbpsCreateRegKeyWithDefaultValueAAEx(struct VBPSREGSTATE *,struct HKEY__ *,const char *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.217030 main     1582: create key '{20191216-4a75-437e-b0bb-7e7c90d0df2a}'(/Default='IGuestSession') -> 5
+00:00:00.217164 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(869) long __cdecl vbpsCreateRegKeyA(struct VBPSREGSTATE *,struct HKEY__ *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.217176 main     1582: create key '{20191216-4974-a19c-4dc6-cc98c2269626}' -> 5
+00:00:00.217183 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(964) long __cdecl vbpsCreateRegKeyWithDefaultValueAAEx(struct VBPSREGSTATE *,struct HKEY__ *,const char *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.217195 main     1582: create key '{20191216-4974-a19c-4dc6-cc98c2269626}'(/Default='IGuestDirectory') -> 5
+00:00:00.217326 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(869) long __cdecl vbpsCreateRegKeyA(struct VBPSREGSTATE *,struct HKEY__ *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.217341 main     1582: create key '{20191216-7e72-4f34-b8f6-682785620c57}' -> 5
+00:00:00.217348 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(964) long __cdecl vbpsCreateRegKeyWithDefaultValueAAEx(struct VBPSREGSTATE *,struct HKEY__ *,const char *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.217355 main     1582: create key '{20191216-7e72-4f34-b8f6-682785620c57}'(/Default='IExtPackFile') -> 5
+00:00:00.217458 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(869) long __cdecl vbpsCreateRegKeyA(struct VBPSREGSTATE *,struct HKEY__ *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.217468 main     1582: create key '{20191216-7071-4894-93d6-dcbec010fa91}' -> 5
+00:00:00.217474 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(964) long __cdecl vbpsCreateRegKeyWithDefaultValueAAEx(struct VBPSREGSTATE *,struct HKEY__ *,const char *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.217481 main     1582: create key '{20191216-7071-4894-93d6-dcbec010fa91}'(/Default='INetworkAdapter') -> 5
+00:00:00.217577 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(869) long __cdecl vbpsCreateRegKeyA(struct VBPSREGSTATE *,struct HKEY__ *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.217586 main     1582: create key '{20191216-9070-4f9c-b0d5-53054496dbe0}' -> 5
+00:00:00.217593 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(964) long __cdecl vbpsCreateRegKeyWithDefaultValueAAEx(struct VBPSREGSTATE *,struct HKEY__ *,const char *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.217599 main     1582: create key '{20191216-9070-4f9c-b0d5-53054496dbe0}'(/Default='IMousePointerShape') -> 5
+00:00:00.217696 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(869) long __cdecl vbpsCreateRegKeyA(struct VBPSREGSTATE *,struct HKEY__ *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.217708 main     1582: create key '{20191216-486f-40db-9150-deee3fd24189}' -> 5
+00:00:00.217715 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(964) long __cdecl vbpsCreateRegKeyWithDefaultValueAAEx(struct VBPSREGSTATE *,struct HKEY__ *,const char *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.217721 main     1582: create key '{20191216-486f-40db-9150-deee3fd24189}'(/Default='IGuestFileReadEvent') -> 5
+00:00:00.217836 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(869) long __cdecl vbpsCreateRegKeyA(struct VBPSREGSTATE *,struct HKEY__ *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.217847 main     1582: create key '{20191216-486e-472f-481b-969746af2480}' -> 5
+00:00:00.217855 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(964) long __cdecl vbpsCreateRegKeyWithDefaultValueAAEx(struct VBPSREGSTATE *,struct HKEY__ *,const char *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.217867 main     1582: create key '{20191216-486e-472f-481b-969746af2480}'(/Default='IGuestFileSizeChangedEvent') -> 5
+00:00:00.217992 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(869) long __cdecl vbpsCreateRegKeyA(struct VBPSREGSTATE *,struct HKEY__ *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.218003 main     1582: create key '{20191216-416b-4181-8c4a-45ec95177aef}' -> 5
+00:00:00.218012 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(964) long __cdecl vbpsCreateRegKeyWithDefaultValueAAEx(struct VBPSREGSTATE *,struct HKEY__ *,const char *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.218022 main     1582: create key '{20191216-416b-4181-8c4a-45ec95177aef}'(/Default='IMousePointerShapeChangedEvent') -> 5
+00:00:00.218136 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(869) long __cdecl vbpsCreateRegKeyA(struct VBPSREGSTATE *,struct HKEY__ *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.218148 main     1582: create key '{20191216-7e67-4144-bf34-41c38e8b4cc7}' -> 5
+00:00:00.218154 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(964) long __cdecl vbpsCreateRegKeyWithDefaultValueAAEx(struct VBPSREGSTATE *,struct HKEY__ *,const char *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.218162 main     1582: create key '{20191216-7e67-4144-bf34-41c38e8b4cc7}'(/Default='IBIOSSettings') -> 5
+00:00:00.218265 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(869) long __cdecl vbpsCreateRegKeyA(struct VBPSREGSTATE *,struct HKEY__ *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.218275 main     1582: create key '{20191216-7966-481d-ab0b-d0ed73e28135}' -> 5
+00:00:00.218282 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(964) long __cdecl vbpsCreateRegKeyWithDefaultValueAAEx(struct VBPSREGSTATE *,struct HKEY__ *,const char *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.218288 main     1582: create key '{20191216-7966-481d-ab0b-d0ed73e28135}'(/Default='IVirtualBoxErrorInfo') -> 5
+00:00:00.218396 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(869) long __cdecl vbpsCreateRegKeyA(struct VBPSREGSTATE *,struct HKEY__ *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.218410 main     1582: create key '{20191216-0c65-11ea-ad23-0ff257c71a7f}' -> 5
+00:00:00.218418 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(964) long __cdecl vbpsCreateRegKeyWithDefaultValueAAEx(struct VBPSREGSTATE *,struct HKEY__ *,const char *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.218425 main     1582: create key '{20191216-0c65-11ea-ad23-0ff257c71a7f}'(/Default='ICloudNetworkGatewayInfo') -> 5
+00:00:00.218971 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(869) long __cdecl vbpsCreateRegKeyA(struct VBPSREGSTATE *,struct HKEY__ *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.218989 main     1582: create key '{20191216-cb63-47a1-84fb-02c4894b89a9}' -> 5
+00:00:00.218996 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(964) long __cdecl vbpsCreateRegKeyWithDefaultValueAAEx(struct VBPSREGSTATE *,struct HKEY__ *,const char *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.219004 main     1582: create key '{20191216-cb63-47a1-84fb-02c4894b89a9}'(/Default='IHostNameResolutionConfigurationChangeEvent') -> 5
+00:00:00.219141 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(869) long __cdecl vbpsCreateRegKeyA(struct VBPSREGSTATE *,struct HKEY__ *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.219154 main     1582: create key '{20191216-a862-4dc9-8c89-bf4ba74a886a}' -> 5
+00:00:00.219161 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(964) long __cdecl vbpsCreateRegKeyWithDefaultValueAAEx(struct VBPSREGSTATE *,struct HKEY__ *,const char *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.219168 main     1582: create key '{20191216-a862-4dc9-8c89-bf4ba74a886a}'(/Default='IMediumFormat') -> 5
+00:00:00.219315 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(869) long __cdecl vbpsCreateRegKeyA(struct VBPSREGSTATE *,struct HKEY__ *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.219327 main     1582: create key '{20191216-ee61-462f-aed3-0dff6cbf9904}' -> 5
+00:00:00.219334 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(964) long __cdecl vbpsCreateRegKeyWithDefaultValueAAEx(struct VBPSREGSTATE *,struct HKEY__ *,const char *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.219341 main     1582: create key '{20191216-ee61-462f-aed3-0dff6cbf9904}'(/Default='IGuestSessionStateChangedEvent') -> 5
+00:00:00.219461 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(869) long __cdecl vbpsCreateRegKeyA(struct VBPSREGSTATE *,struct HKEY__ *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.219473 main     1582: create key '{20191216-a161-41f1-b583-4892f4a9d5d5}' -> 5
+00:00:00.219480 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(964) long __cdecl vbpsCreateRegKeyWithDefaultValueAAEx(struct VBPSREGSTATE *,struct HKEY__ *,const char *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.219488 main     1582: create key '{20191216-a161-41f1-b583-4892f4a9d5d5}'(/Default='IMediumConfigChangedEvent') -> 5
+00:00:00.219609 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(869) long __cdecl vbpsCreateRegKeyA(struct VBPSREGSTATE *,struct HKEY__ *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.219620 main     1582: create key '{20191216-0c60-11ea-a0ea-07eb0d1c4ead}' -> 5
+00:00:00.219627 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(964) long __cdecl vbpsCreateRegKeyWithDefaultValueAAEx(struct VBPSREGSTATE *,struct HKEY__ *,const char *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.219638 main     1582: create key '{20191216-0c60-11ea-a0ea-07eb0d1c4ead}'(/Default='ICloudClient') -> 5
+00:00:00.219761 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(869) long __cdecl vbpsCreateRegKeyA(struct VBPSREGSTATE *,struct HKEY__ *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.219774 main     1582: create key '{20191216-735f-4fde-8a54-427d49409b5f}' -> 5
+00:00:00.219780 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(964) long __cdecl vbpsCreateRegKeyWithDefaultValueAAEx(struct VBPSREGSTATE *,struct HKEY__ *,const char *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.219786 main     1582: create key '{20191216-735f-4fde-8a54-427d49409b5f}'(/Default='ICloudNetwork') -> 5
+00:00:00.219916 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(869) long __cdecl vbpsCreateRegKeyA(struct VBPSREGSTATE *,struct HKEY__ *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.219928 main     1582: create key '{20191216-b45c-48ae-8b36-d35e83d207aa}' -> 5
+00:00:00.219935 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(964) long __cdecl vbpsCreateRegKeyWithDefaultValueAAEx(struct VBPSREGSTATE *,struct HKEY__ *,const char *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.219942 main     1582: create key '{20191216-b45c-48ae-8b36-d35e83d207aa}'(/Default='IFramebuffer') -> 5
+00:00:00.220050 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(869) long __cdecl vbpsCreateRegKeyA(struct VBPSREGSTATE *,struct HKEY__ *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.220060 main     1582: create key '{20191216-ff5a-4795-b57a-ecd5fffa18a4}' -> 5
+00:00:00.220067 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(964) long __cdecl vbpsCreateRegKeyWithDefaultValueAAEx(struct VBPSREGSTATE *,struct HKEY__ *,const char *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.220074 main     1582: create key '{20191216-ff5a-4795-b57a-ecd5fffa18a4}'(/Default='ISession') -> 5
+00:00:00.220175 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(869) long __cdecl vbpsCreateRegKeyA(struct VBPSREGSTATE *,struct HKEY__ *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.220185 main     1582: create key '{20191216-1c58-440c-bb7b-3a1397284c7b}' -> 5
+00:00:00.220191 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(964) long __cdecl vbpsCreateRegKeyWithDefaultValueAAEx(struct VBPSREGSTATE *,struct HKEY__ *,const char *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.220199 main     1582: create key '{20191216-1c58-440c-bb7b-3a1397284c7b}'(/Default='IStorageControllerChangedEvent') -> 5
+00:00:00.220298 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(869) long __cdecl vbpsCreateRegKeyA(struct VBPSREGSTATE *,struct HKEY__ *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.220308 main     1582: create key '{20191216-7556-4cbc-8c04-043096b02d82}' -> 5
+00:00:00.220314 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(964) long __cdecl vbpsCreateRegKeyWithDefaultValueAAEx(struct VBPSREGSTATE *,struct HKEY__ *,const char *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.220333 main     1582: create key '{20191216-7556-4cbc-8c04-043096b02d82}'(/Default='IBandwidthGroupChangedEvent') -> 5
+00:00:00.220435 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(869) long __cdecl vbpsCreateRegKeyA(struct VBPSREGSTATE *,struct HKEY__ *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.220445 main     1582: create key '{20191216-b855-40b8-ab0c-44d3515b4528}' -> 5
+00:00:00.220452 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(964) long __cdecl vbpsCreateRegKeyWithDefaultValueAAEx(struct VBPSREGSTATE *,struct HKEY__ *,const char *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.220459 main     1582: create key '{20191216-b855-40b8-ab0c-44d3515b4528}'(/Default='INATNetworkCreationDeletionEvent') -> 5
+00:00:00.220559 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(869) long __cdecl vbpsCreateRegKeyA(struct VBPSREGSTATE *,struct HKEY__ *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.220569 main     1582: create key '{20191216-e254-4e5b-a1f2-011cf991c38d}' -> 5
+00:00:00.220576 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(964) long __cdecl vbpsCreateRegKeyWithDefaultValueAAEx(struct VBPSREGSTATE *,struct HKEY__ *,const char *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.220583 main     1582: create key '{20191216-e254-4e5b-a1f2-011cf991c38d}'(/Default='IVirtualBox') -> 5
+00:00:00.220683 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(869) long __cdecl vbpsCreateRegKeyA(struct VBPSREGSTATE *,struct HKEY__ *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.220693 main     1582: create key '{20191216-cd54-400c-b858-797bcb82570e}' -> 5
+00:00:00.220700 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(964) long __cdecl vbpsCreateRegKeyWithDefaultValueAAEx(struct VBPSREGSTATE *,struct HKEY__ *,const char *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.220707 main     1582: create key '{20191216-cd54-400c-b858-797bcb82570e}'(/Default='IPerformanceCollector') -> 5
+00:00:00.220823 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(869) long __cdecl vbpsCreateRegKeyA(struct VBPSREGSTATE *,struct HKEY__ *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.220834 main     1582: create key '{20191216-2354-4267-883f-2f417d216519}' -> 5
+00:00:00.220841 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(964) long __cdecl vbpsCreateRegKeyWithDefaultValueAAEx(struct VBPSREGSTATE *,struct HKEY__ *,const char *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.220848 main     1582: create key '{20191216-2354-4267-883f-2f417d216519}'(/Default='IVetoEvent') -> 5
+00:00:00.220968 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(869) long __cdecl vbpsCreateRegKeyA(struct VBPSREGSTATE *,struct HKEY__ *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.220980 main     1582: create key '{20191216-4453-4f3e-c9b8-5686939c80b6}' -> 5
+00:00:00.220988 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(964) long __cdecl vbpsCreateRegKeyWithDefaultValueAAEx(struct VBPSREGSTATE *,struct HKEY__ *,const char *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.220995 main     1582: create key '{20191216-4453-4f3e-c9b8-5686939c80b6}'(/Default='IGuestProcess') -> 5
+00:00:00.221099 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(869) long __cdecl vbpsCreateRegKeyA(struct VBPSREGSTATE *,struct HKEY__ *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.221117 main     1582: create key '{20191216-604d-11e9-92d3-53cb473db9fb}' -> 5
+00:00:00.221130 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(964) long __cdecl vbpsCreateRegKeyWithDefaultValueAAEx(struct VBPSREGSTATE *,struct HKEY__ *,const char *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.221138 main     1582: create key '{20191216-604d-11e9-92d3-53cb473db9fb}'(/Default='IStringArray') -> 5
+00:00:00.221247 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(869) long __cdecl vbpsCreateRegKeyA(struct VBPSREGSTATE *,struct HKEY__ *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.221257 main     1582: create key '{20191216-394d-44d3-9edb-af2c4472c40a}' -> 5
+00:00:00.221264 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(964) long __cdecl vbpsCreateRegKeyWithDefaultValueAAEx(struct VBPSREGSTATE *,struct HKEY__ *,const char *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.221271 main     1582: create key '{20191216-394d-44d3-9edb-af2c4472c40a}'(/Default='ICloudNetworkEnvironmentInfo') -> 5
+00:00:00.221371 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(869) long __cdecl vbpsCreateRegKeyA(struct VBPSREGSTATE *,struct HKEY__ *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.221381 main     1582: create key '{20191216-e64a-4908-804e-371cad23a756}' -> 5
+00:00:00.221388 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(964) long __cdecl vbpsCreateRegKeyWithDefaultValueAAEx(struct VBPSREGSTATE *,struct HKEY__ *,const char *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.221396 main     1582: create key '{20191216-e64a-4908-804e-371cad23a756}'(/Default='IMouseCapabilityChangedEvent') -> 5
+00:00:00.221508 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(869) long __cdecl vbpsCreateRegKeyA(struct VBPSREGSTATE *,struct HKEY__ *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.221540 main     1582: create key '{20191216-9849-4f47-813e-24a75dc85615}' -> 5
+00:00:00.221550 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(964) long __cdecl vbpsCreateRegKeyWithDefaultValueAAEx(struct VBPSREGSTATE *,struct HKEY__ *,const char *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.221557 main     1582: create key '{20191216-9849-4f47-813e-24a75dc85615}'(/Default='IParallelPortChangedEvent') -> 5
+00:00:00.221670 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(869) long __cdecl vbpsCreateRegKeyA(struct VBPSREGSTATE *,struct HKEY__ *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.221681 main     1582: create key '{20191216-0547-448e-bc7c-94e9e173bf57}' -> 5
+00:00:00.221687 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(964) long __cdecl vbpsCreateRegKeyWithDefaultValueAAEx(struct VBPSREGSTATE *,struct HKEY__ *,const char *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.221694 main     1582: create key '{20191216-0547-448e-bc7c-94e9e173bf57}'(/Default='IHostUpdate') -> 5
+00:00:00.221824 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(869) long __cdecl vbpsCreateRegKeyA(struct VBPSREGSTATE *,struct HKEY__ *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.221850 main     1582: create key '{20191216-3346-49d6-8f1c-41b0c4784ff2}' -> 5
+00:00:00.221864 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(964) long __cdecl vbpsCreateRegKeyWithDefaultValueAAEx(struct VBPSREGSTATE *,struct HKEY__ *,const char *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.221873 main     1582: create key '{20191216-3346-49d6-8f1c-41b0c4784ff2}'(/Default='IUSBDeviceFilters') -> 5
+00:00:00.221994 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(869) long __cdecl vbpsCreateRegKeyA(struct VBPSREGSTATE *,struct HKEY__ *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.222023 main     1582: create key '{20191216-d545-44aa-8013-181b8c288554}' -> 5
+00:00:00.222034 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(964) long __cdecl vbpsCreateRegKeyWithDefaultValueAAEx(struct VBPSREGSTATE *,struct HKEY__ *,const char *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.222042 main     1582: create key '{20191216-d545-44aa-8013-181b8c288554}'(/Default='IExtPackPlugIn') -> 5
+00:00:00.222174 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(869) long __cdecl vbpsCreateRegKeyA(struct VBPSREGSTATE *,struct HKEY__ *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.222185 main     1582: create key '{20191216-9641-4397-854a-040439d0114b}' -> 5
+00:00:00.222192 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(964) long __cdecl vbpsCreateRegKeyWithDefaultValueAAEx(struct VBPSREGSTATE *,struct HKEY__ *,const char *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.222199 main     1582: create key '{20191216-9641-4397-854a-040439d0114b}'(/Default='IGuestScreenInfo') -> 5
+00:00:00.222299 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(869) long __cdecl vbpsCreateRegKeyA(struct VBPSREGSTATE *,struct HKEY__ *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.222309 main     1582: create key '{20191216-1640-41f9-bd74-3ef5fd653250}' -> 5
+00:00:00.222315 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(964) long __cdecl vbpsCreateRegKeyWithDefaultValueAAEx(struct VBPSREGSTATE *,struct HKEY__ *,const char *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.222322 main     1582: create key '{20191216-1640-41f9-bd74-3ef5fd653250}'(/Default='IKeyboard') -> 5
+00:00:00.222418 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(869) long __cdecl vbpsCreateRegKeyA(struct VBPSREGSTATE *,struct HKEY__ *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.222428 main     1582: create key '{20191216-6038-422c-b45e-6d4a0503d9f1}' -> 5
+00:00:00.222434 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(964) long __cdecl vbpsCreateRegKeyWithDefaultValueAAEx(struct VBPSREGSTATE *,struct HKEY__ *,const char *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.222441 main     1582: create key '{20191216-6038-422c-b45e-6d4a0503d9f1}'(/Default='ISnapshotTakenEvent') -> 5
+00:00:00.222540 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(869) long __cdecl vbpsCreateRegKeyA(struct VBPSREGSTATE *,struct HKEY__ *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.222549 main     1582: create key '{20191216-cf37-453b-9289-3b0f521caf27}' -> 5
+00:00:00.222555 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(964) long __cdecl vbpsCreateRegKeyWithDefaultValueAAEx(struct VBPSREGSTATE *,struct HKEY__ *,const char *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.222567 main     1582: create key '{20191216-cf37-453b-9289-3b0f521caf27}'(/Default='IStateChangedEvent') -> 5
+00:00:00.222664 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(869) long __cdecl vbpsCreateRegKeyA(struct VBPSREGSTATE *,struct HKEY__ *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.222674 main     1582: create key '{20191216-5637-472a-9736-72019eabd7de}' -> 5
+00:00:00.222680 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(964) long __cdecl vbpsCreateRegKeyWithDefaultValueAAEx(struct VBPSREGSTATE *,struct HKEY__ *,const char *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.222687 main     1582: create key '{20191216-5637-472a-9736-72019eabd7de}'(/Default='IMediumChangedEvent') -> 5
+00:00:00.222782 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(869) long __cdecl vbpsCreateRegKeyA(struct VBPSREGSTATE *,struct HKEY__ *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.222791 main     1582: create key '{20191216-4737-457b-99fc-bc52c851a44f}' -> 5
+00:00:00.222798 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(964) long __cdecl vbpsCreateRegKeyWithDefaultValueAAEx(struct VBPSREGSTATE *,struct HKEY__ *,const char *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.222805 main     1582: create key '{20191216-4737-457b-99fc-bc52c851a44f}'(/Default='IKeyboardLedsChangedEvent') -> 5
+00:00:00.222904 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(869) long __cdecl vbpsCreateRegKeyA(struct VBPSREGSTATE *,struct HKEY__ *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.222913 main     1582: create key '{20191216-9536-4ef8-820e-3b0e17e5bbc8}' -> 5
+00:00:00.222920 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(964) long __cdecl vbpsCreateRegKeyWithDefaultValueAAEx(struct VBPSREGSTATE *,struct HKEY__ *,const char *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.222926 main     1582: create key '{20191216-9536-4ef8-820e-3b0e17e5bbc8}'(/Default='IGuestFileIOEvent') -> 5
+00:00:00.223024 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(869) long __cdecl vbpsCreateRegKeyA(struct VBPSREGSTATE *,struct HKEY__ *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.223033 main     1582: create key '{20191216-3534-4239-b2de-8e1535d94c0b}' -> 5
+00:00:00.223040 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(964) long __cdecl vbpsCreateRegKeyWithDefaultValueAAEx(struct VBPSREGSTATE *,struct HKEY__ *,const char *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.223046 main     1582: create key '{20191216-3534-4239-b2de-8e1535d94c0b}'(/Default='ISharedFolderChangedEvent') -> 5
+00:00:00.223286 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(869) long __cdecl vbpsCreateRegKeyA(struct VBPSREGSTATE *,struct HKEY__ *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.223299 main     1582: create key '{20191216-7532-45e8-96da-eb5986ae76e4}' -> 5
+00:00:00.223306 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(964) long __cdecl vbpsCreateRegKeyWithDefaultValueAAEx(struct VBPSREGSTATE *,struct HKEY__ *,const char *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.223316 main     1582: create key '{20191216-7532-45e8-96da-eb5986ae76e4}'(/Default='IVRDEServerInfo') -> 5
+00:00:00.223453 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(869) long __cdecl vbpsCreateRegKeyA(struct VBPSREGSTATE *,struct HKEY__ *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.223469 main     1582: create key '{20191216-be30-49c0-b315-e9749e1bded1}' -> 5
+00:00:00.223480 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(964) long __cdecl vbpsCreateRegKeyWithDefaultValueAAEx(struct VBPSREGSTATE *,struct HKEY__ *,const char *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.223488 main     1582: create key '{20191216-be30-49c0-b315-e9749e1bded1}'(/Default='INATNetwork') -> 5
+00:00:00.223604 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(869) long __cdecl vbpsCreateRegKeyA(struct VBPSREGSTATE *,struct HKEY__ *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.223616 main     1582: create key '{20191216-8f30-401b-a8cd-fe31dbe839c0}' -> 5
+00:00:00.223623 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(964) long __cdecl vbpsCreateRegKeyWithDefaultValueAAEx(struct VBPSREGSTATE *,struct HKEY__ *,const char *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.223631 main     1582: create key '{20191216-8f30-401b-a8cd-fe31dbe839c0}'(/Default='IEvent') -> 5
+00:00:00.223759 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(869) long __cdecl vbpsCreateRegKeyA(struct VBPSREGSTATE *,struct HKEY__ *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.223771 main     1582: create key '{20191216-4430-499f-92c8-8bed814a567a}' -> 5
+00:00:00.223777 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(964) long __cdecl vbpsCreateRegKeyWithDefaultValueAAEx(struct VBPSREGSTATE *,struct HKEY__ *,const char *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.223785 main     1582: create key '{20191216-4430-499f-92c8-8bed814a567a}'(/Default='IGuestProcessStateChangedEvent') -> 5
+00:00:00.223902 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(869) long __cdecl vbpsCreateRegKeyA(struct VBPSREGSTATE *,struct HKEY__ *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.223914 main     1582: create key '{20191216-762e-4120-871c-a2014234a607}' -> 5
+00:00:00.223921 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(964) long __cdecl vbpsCreateRegKeyWithDefaultValueAAEx(struct VBPSREGSTATE *,struct HKEY__ *,const char *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.223928 main     1582: create key '{20191216-762e-4120-871c-a2014234a607}'(/Default='ICloudProviderManager') -> 5
+00:00:00.224032 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(869) long __cdecl vbpsCreateRegKeyA(struct VBPSREGSTATE *,struct HKEY__ *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.224043 main     1582: create key '{20191216-402e-022e-6180-c3944de3f9c8}' -> 5
+00:00:00.224050 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(964) long __cdecl vbpsCreateRegKeyWithDefaultValueAAEx(struct VBPSREGSTATE *,struct HKEY__ *,const char *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.224057 main     1582: create key '{20191216-402e-022e-6180-c3944de3f9c8}'(/Default='IGuest') -> 5
+00:00:00.224180 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(869) long __cdecl vbpsCreateRegKeyA(struct VBPSREGSTATE *,struct HKEY__ *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.224193 main     1582: create key '{20191216-9b2d-4377-bfe6-9702e881516b}' -> 5
+00:00:00.224207 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(964) long __cdecl vbpsCreateRegKeyWithDefaultValueAAEx(struct VBPSREGSTATE *,struct HKEY__ *,const char *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.224217 main     1582: create key '{20191216-9b2d-4377-bfe6-9702e881516b}'(/Default='ISnapshotRestoredEvent') -> 5
+00:00:00.224355 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(869) long __cdecl vbpsCreateRegKeyA(struct VBPSREGSTATE *,struct HKEY__ *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.224366 main     1582: create key '{20191216-7f29-4aae-a627-5a282c83092c}' -> 5
+00:00:00.224373 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(964) long __cdecl vbpsCreateRegKeyWithDefaultValueAAEx(struct VBPSREGSTATE *,struct HKEY__ *,const char *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.224380 main     1582: create key '{20191216-7f29-4aae-a627-5a282c83092c}'(/Default='INATNetworkSettingEvent') -> 5
+00:00:00.224486 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(869) long __cdecl vbpsCreateRegKeyA(struct VBPSREGSTATE *,struct HKEY__ *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.224499 main     1582: create key '{20191216-1a29-4a19-92cf-02285773f3b5}' -> 5
+00:00:00.224509 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(964) long __cdecl vbpsCreateRegKeyWithDefaultValueAAEx(struct VBPSREGSTATE *,struct HKEY__ *,const char *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.224520 main     1582: create key '{20191216-1a29-4a19-92cf-02285773f3b5}'(/Default='INATNetworkChangedEvent') -> 5
+00:00:00.224659 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(869) long __cdecl vbpsCreateRegKeyA(struct VBPSREGSTATE *,struct HKEY__ *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.224674 main     1582: create key '{20191216-c927-11e7-b788-33c248e71fc7}' -> 5
+00:00:00.224685 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(964) long __cdecl vbpsCreateRegKeyWithDefaultValueAAEx(struct VBPSREGSTATE *,struct HKEY__ *,const char *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.224694 main     1582: create key '{20191216-c927-11e7-b788-33c248e71fc7}'(/Default='ICursorPositionChangedEvent') -> 5
+00:00:00.224812 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(869) long __cdecl vbpsCreateRegKeyA(struct VBPSREGSTATE *,struct HKEY__ *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.224823 main     1582: create key '{20191216-a227-4f23-8278-2f675eea1bb2}' -> 5
+00:00:00.224837 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(964) long __cdecl vbpsCreateRegKeyWithDefaultValueAAEx(struct VBPSREGSTATE *,struct HKEY__ *,const char *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.224861 main     1582: create key '{20191216-a227-4f23-8278-2f675eea1bb2}'(/Default='ISerialPort') -> 5
+00:00:00.224982 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(869) long __cdecl vbpsCreateRegKeyA(struct VBPSREGSTATE *,struct HKEY__ *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.224994 main     1582: create key '{20191216-0126-43e0-b05d-326e74abb356}' -> 5
+00:00:00.225001 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(964) long __cdecl vbpsCreateRegKeyWithDefaultValueAAEx(struct VBPSREGSTATE *,struct HKEY__ *,const char *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.225077 main     1582: create key '{20191216-0126-43e0-b05d-326e74abb356}'(/Default='IMediumAttachment') -> 5
+00:00:00.225214 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(869) long __cdecl vbpsCreateRegKeyA(struct VBPSREGSTATE *,struct HKEY__ *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.225225 main     1582: create key '{20191216-4022-dc80-5535-6fb116815604}' -> 5
+00:00:00.225232 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(964) long __cdecl vbpsCreateRegKeyWithDefaultValueAAEx(struct VBPSREGSTATE *,struct HKEY__ *,const char *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.225239 main     1582: create key '{20191216-4022-dc80-5535-6fb116815604}'(/Default='INATNetworkAlterEvent') -> 5
+00:00:00.225343 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(869) long __cdecl vbpsCreateRegKeyA(struct VBPSREGSTATE *,struct HKEY__ *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.225353 main     1582: create key '{20191216-e621-4f70-a77e-15f0e3c714d5}' -> 5
+00:00:00.225360 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(964) long __cdecl vbpsCreateRegKeyWithDefaultValueAAEx(struct VBPSREGSTATE *,struct HKEY__ *,const char *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.225367 main     1582: create key '{20191216-e621-4f70-a77e-15f0e3c714d5}'(/Default='IPCIDeviceAttachment') -> 5
+00:00:00.225475 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(869) long __cdecl vbpsCreateRegKeyA(struct VBPSREGSTATE *,struct HKEY__ *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.225487 main     1582: create key '{20191216-4521-44cc-df95-186e4d057c83}' -> 5
+00:00:00.225493 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(964) long __cdecl vbpsCreateRegKeyWithDefaultValueAAEx(struct VBPSREGSTATE *,struct HKEY__ *,const char *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.225500 main     1582: create key '{20191216-4521-44cc-df95-186e4d057c83}'(/Default='IVBoxSVCRegistration') -> 5
+00:00:00.225601 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(869) long __cdecl vbpsCreateRegKeyA(struct VBPSREGSTATE *,struct HKEY__ *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.225611 main     1582: create key '{20191216-0721-4cde-867c-1a82abaf914c}' -> 5
+00:00:00.225618 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(964) long __cdecl vbpsCreateRegKeyWithDefaultValueAAEx(struct VBPSREGSTATE *,struct HKEY__ *,const char *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.225625 main     1582: create key '{20191216-0721-4cde-867c-1a82abaf914c}'(/Default='IRuntimeErrorEvent') -> 5
+00:00:00.225739 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(869) long __cdecl vbpsCreateRegKeyA(struct VBPSREGSTATE *,struct HKEY__ *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.225751 main     1582: create key '{20191216-c71f-4a36-8e5f-a77d01d76090}' -> 5
+00:00:00.225758 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(964) long __cdecl vbpsCreateRegKeyWithDefaultValueAAEx(struct VBPSREGSTATE *,struct HKEY__ *,const char *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.225765 main     1582: create key '{20191216-c71f-4a36-8e5f-a77d01d76090}'(/Default='IGuestMonitorChangedEvent') -> 5
+00:00:00.225866 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(869) long __cdecl vbpsCreateRegKeyA(struct VBPSREGSTATE *,struct HKEY__ *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.225949 main     1582: create key '{20191216-fa1e-4cee-91c7-6d8496bea3c1}' -> 5
+00:00:00.225959 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(964) long __cdecl vbpsCreateRegKeyWithDefaultValueAAEx(struct VBPSREGSTATE *,struct HKEY__ *,const char *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.225967 main     1582: create key '{20191216-fa1e-4cee-91c7-6d8496bea3c1}'(/Default='INATNetworkStartStopEvent') -> 5
+00:00:00.226071 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(869) long __cdecl vbpsCreateRegKeyA(struct VBPSREGSTATE *,struct HKEY__ *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.226092 main     1582: create key '{20191216-5a1d-43f1-6f27-6a0db298a9a8}' -> 5
+00:00:00.226100 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(964) long __cdecl vbpsCreateRegKeyWithDefaultValueAAEx(struct VBPSREGSTATE *,struct HKEY__ *,const char *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.226107 main     1582: create key '{20191216-5a1d-43f1-6f27-6a0db298a9a8}'(/Default='IDHCPGroupCondition') -> 5
+00:00:00.226218 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(869) long __cdecl vbpsCreateRegKeyA(struct VBPSREGSTATE *,struct HKEY__ *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.226228 main     1582: create key '{20191216-fd1c-411a-95c5-e9bb1414e632}' -> 5
+00:00:00.226235 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(964) long __cdecl vbpsCreateRegKeyWithDefaultValueAAEx(struct VBPSREGSTATE *,struct HKEY__ *,const char *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.226242 main     1582: create key '{20191216-fd1c-411a-95c5-e9bb1414e632}'(/Default='IPerformanceMetric') -> 5
+00:00:00.226342 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(869) long __cdecl vbpsCreateRegKeyA(struct VBPSREGSTATE *,struct HKEY__ *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.226352 main     1582: create key '{20191216-4c1b-edf7-fdf3-c1be6827dc28}' -> 5
+00:00:00.226359 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(964) long __cdecl vbpsCreateRegKeyWithDefaultValueAAEx(struct VBPSREGSTATE *,struct HKEY__ *,const char *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.226366 main     1582: create key '{20191216-4c1b-edf7-fdf3-c1be6827dc28}'(/Default='IGuestDnDSource') -> 5
+00:00:00.226466 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(869) long __cdecl vbpsCreateRegKeyA(struct VBPSREGSTATE *,struct HKEY__ *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.226476 main     1582: create key '{20191216-2f1a-4d6c-81fc-e3fa843f49ae}' -> 5
+00:00:00.226482 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(964) long __cdecl vbpsCreateRegKeyWithDefaultValueAAEx(struct VBPSREGSTATE *,struct HKEY__ *,const char *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.226489 main     1582: create key '{20191216-2f1a-4d6c-81fc-e3fa843f49ae}'(/Default='IFile') -> 5
+00:00:00.226591 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(869) long __cdecl vbpsCreateRegKeyA(struct VBPSREGSTATE *,struct HKEY__ *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.226602 main     1582: create key '{20191216-cc19-43fa-8ebf-baecb6b9ec87}' -> 5
+00:00:00.226657 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(964) long __cdecl vbpsCreateRegKeyWithDefaultValueAAEx(struct VBPSREGSTATE *,struct HKEY__ *,const char *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.226668 main     1582: create key '{20191216-cc19-43fa-8ebf-baecb6b9ec87}'(/Default='IVirtualBoxSDS') -> 5
+00:00:00.226785 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(869) long __cdecl vbpsCreateRegKeyA(struct VBPSREGSTATE *,struct HKEY__ *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.226796 main     1582: create key '{20191216-7619-41aa-aece-b21ac5c1a7e6}' -> 5
+00:00:00.226803 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(964) long __cdecl vbpsCreateRegKeyWithDefaultValueAAEx(struct VBPSREGSTATE *,struct HKEY__ *,const char *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.226811 main     1582: create key '{20191216-7619-41aa-aece-b21ac5c1a7e6}'(/Default='IAppliance') -> 5
+00:00:00.226912 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(869) long __cdecl vbpsCreateRegKeyA(struct VBPSREGSTATE *,struct HKEY__ *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.226921 main     1582: create key '{20191216-3618-4ebc-b038-833ba829b4b2}' -> 5
+00:00:00.226928 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(964) long __cdecl vbpsCreateRegKeyWithDefaultValueAAEx(struct VBPSREGSTATE *,struct HKEY__ *,const char *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.226935 main     1582: create key '{20191216-3618-4ebc-b038-833ba829b4b2}'(/Default='IExtPack') -> 5
+00:00:00.227080 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(869) long __cdecl vbpsCreateRegKeyA(struct VBPSREGSTATE *,struct HKEY__ *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.227091 main     1582: create key '{20191216-6e15-4f71-a6a5-94e707fafbcc}' -> 5
+00:00:00.227098 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(964) long __cdecl vbpsCreateRegKeyWithDefaultValueAAEx(struct VBPSREGSTATE *,struct HKEY__ *,const char *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.227105 main     1582: create key '{20191216-6e15-4f71-a6a5-94e707fafbcc}'(/Default='INATEngine') -> 5
+00:00:00.227218 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(869) long __cdecl vbpsCreateRegKeyA(struct VBPSREGSTATE *,struct HKEY__ *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.227229 main     1582: create key '{20191216-d612-47d3-89d4-db3992533948}' -> 5
+00:00:00.227236 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(964) long __cdecl vbpsCreateRegKeyWithDefaultValueAAEx(struct VBPSREGSTATE *,struct HKEY__ *,const char *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.227246 main     1582: create key '{20191216-d612-47d3-89d4-db3992533948}'(/Default='IHostPCIDevicePlugEvent') -> 5
+00:00:00.227400 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(869) long __cdecl vbpsCreateRegKeyA(struct VBPSREGSTATE *,struct HKEY__ *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.227418 main     1582: create key '{20191216-2d12-4d7c-ba6d-ce51d0d5b265}' -> 5
+00:00:00.227428 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(964) long __cdecl vbpsCreateRegKeyWithDefaultValueAAEx(struct VBPSREGSTATE *,struct HKEY__ *,const char *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.227495 main     1582: create key '{20191216-2d12-4d7c-ba6d-ce51d0d5b265}'(/Default='IBandwidthGroup') -> 5
+00:00:00.227625 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(869) long __cdecl vbpsCreateRegKeyA(struct VBPSREGSTATE *,struct HKEY__ *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.227637 main     1582: create key '{20191216-6e0b-492a-a8d0-968472a94dc7}' -> 5
+00:00:00.227645 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(964) long __cdecl vbpsCreateRegKeyWithDefaultValueAAEx(struct VBPSREGSTATE *,struct HKEY__ *,const char *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.227651 main     1582: create key '{20191216-6e0b-492a-a8d0-968472a94dc7}'(/Default='IExtraDataChangedEvent') -> 5
+00:00:00.227761 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(869) long __cdecl vbpsCreateRegKeyA(struct VBPSREGSTATE *,struct HKEY__ *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.227773 main     1582: create key '{20191216-800a-40f8-87a6-170d02249a55}' -> 5
+00:00:00.227780 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(964) long __cdecl vbpsCreateRegKeyWithDefaultValueAAEx(struct VBPSREGSTATE *,struct HKEY__ *,const char *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.227787 main     1582: create key '{20191216-800a-40f8-87a6-170d02249a55}'(/Default='IExtraDataCanChangeEvent') -> 5
+00:00:00.227891 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(869) long __cdecl vbpsCreateRegKeyA(struct VBPSREGSTATE *,struct HKEY__ *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.227901 main     1582: create key '{20191216-5409-414b-bd16-77df7ba3451e}' -> 5
+00:00:00.227908 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(964) long __cdecl vbpsCreateRegKeyWithDefaultValueAAEx(struct VBPSREGSTATE *,struct HKEY__ *,const char *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.227915 main     1582: create key '{20191216-5409-414b-bd16-77df7ba3451e}'(/Default='ISharedFolder') -> 5
+00:00:00.228015 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(869) long __cdecl vbpsCreateRegKeyA(struct VBPSREGSTATE *,struct HKEY__ *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.228025 main     1582: create key '{20191216-7708-444b-9eef-c116ce423d39}' -> 5
+00:00:00.228032 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(964) long __cdecl vbpsCreateRegKeyWithDefaultValueAAEx(struct VBPSREGSTATE *,struct HKEY__ *,const char *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.228039 main     1582: create key '{20191216-7708-444b-9eef-c116ce423d39}'(/Default='IParallelPort') -> 5
+00:00:00.228136 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(869) long __cdecl vbpsCreateRegKeyA(struct VBPSREGSTATE *,struct HKEY__ *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.228146 main     1582: create key '{20191216-1207-4179-94cf-ca250036308f}' -> 5
+00:00:00.228152 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(964) long __cdecl vbpsCreateRegKeyWithDefaultValueAAEx(struct VBPSREGSTATE *,struct HKEY__ *,const char *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.228159 main     1582: create key '{20191216-1207-4179-94cf-ca250036308f}'(/Default='IGuestFileOffsetChangedEvent') -> 5
+00:00:00.228263 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(869) long __cdecl vbpsCreateRegKeyA(struct VBPSREGSTATE *,struct HKEY__ *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.228277 main     1582: create key '{20191216-7006-40d4-b339-472ee3801844}' -> 5
+00:00:00.228285 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(964) long __cdecl vbpsCreateRegKeyWithDefaultValueAAEx(struct VBPSREGSTATE *,struct HKEY__ *,const char *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.228292 main     1582: create key '{20191216-7006-40d4-b339-472ee3801844}'(/Default='IGuestKeyboardEvent') -> 5
+00:00:00.228403 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(869) long __cdecl vbpsCreateRegKeyA(struct VBPSREGSTATE *,struct HKEY__ *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.228415 main     1582: create key '{20191216-4a06-81fc-a916-78b2da1fa0e5}' -> 5
+00:00:00.228421 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(964) long __cdecl vbpsCreateRegKeyWithDefaultValueAAEx(struct VBPSREGSTATE *,struct HKEY__ *,const char *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.228429 main     1582: create key '{20191216-4a06-81fc-a916-78b2da1fa0e5}'(/Default='IAdditionsFacility') -> 5
+00:00:00.228595 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(869) long __cdecl vbpsCreateRegKeyA(struct VBPSREGSTATE *,struct HKEY__ *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.228608 main     1582: create key '{20191216-2f05-4d28-855f-488f96bad2b2}' -> 5
+00:00:00.228614 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(964) long __cdecl vbpsCreateRegKeyWithDefaultValueAAEx(struct VBPSREGSTATE *,struct HKEY__ *,const char *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.228621 main     1582: create key '{20191216-2f05-4d28-855f-488f96bad2b2}'(/Default='IShowWindowEvent') -> 5
+00:00:00.228749 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(869) long __cdecl vbpsCreateRegKeyA(struct VBPSREGSTATE *,struct HKEY__ *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.228761 main     1582: create key '{20191216-1f04-4191-aa2f-1fac9646ae4c}' -> 5
+00:00:00.228768 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(964) long __cdecl vbpsCreateRegKeyWithDefaultValueAAEx(struct VBPSREGSTATE *,struct HKEY__ *,const char *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.228775 main     1582: create key '{20191216-1f04-4191-aa2f-1fac9646ae4c}'(/Default='IProgressEvent') -> 5
+00:00:00.228889 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(869) long __cdecl vbpsCreateRegKeyA(struct VBPSREGSTATE *,struct HKEY__ *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.228900 main     1582: create key '{20191216-8a02-45f3-a07d-a67aa72756aa}' -> 5
+00:00:00.228907 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(964) long __cdecl vbpsCreateRegKeyWithDefaultValueAAEx(struct VBPSREGSTATE *,struct HKEY__ *,const char *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.228914 main     1582: create key '{20191216-8a02-45f3-a07d-a67aa72756aa}'(/Default='IProcess') -> 5
+00:00:00.229028 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(869) long __cdecl vbpsCreateRegKeyA(struct VBPSREGSTATE *,struct HKEY__ *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.229039 main     1582: create key '{20191216-0002-4b81-0077-1dcb004571ba}' -> 5
+00:00:00.229051 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(964) long __cdecl vbpsCreateRegKeyWithDefaultValueAAEx(struct VBPSREGSTATE *,struct HKEY__ *,const char *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.229061 main     1582: create key '{20191216-0002-4b81-0077-1dcb004571ba}'(/Default='IDHCPConfig') -> 5
+00:00:00.229242 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(869) long __cdecl vbpsCreateRegKeyA(struct VBPSREGSTATE *,struct HKEY__ *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.229253 main     1117: create key '{20191216-9CEE-493C-B6FC-64FFE759B3C9}' -> 5
+00:00:00.229354 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(869) long __cdecl vbpsCreateRegKeyA(struct VBPSREGSTATE *,struct HKEY__ *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.229365 main     1126: create key 'Ld9BoxSVC.exe' -> 5
+00:00:00.229483 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(869) long __cdecl vbpsCreateRegKeyA(struct VBPSREGSTATE *,struct HKEY__ *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.229495 main     1177: create key 'VirtualBox.VirtualBox.1' -> 5
+00:00:00.229502 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(964) long __cdecl vbpsCreateRegKeyWithDefaultValueAAEx(struct VBPSREGSTATE *,struct HKEY__ *,const char *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.229509 main     1177: create key 'VirtualBox.VirtualBox.1'(/Default='VirtualBox Class') -> 5
+00:00:00.229716 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(869) long __cdecl vbpsCreateRegKeyA(struct VBPSREGSTATE *,struct HKEY__ *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.229727 main     1177: create key 'VirtualBox.VirtualBox' -> 5
+00:00:00.229747 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(964) long __cdecl vbpsCreateRegKeyWithDefaultValueAAEx(struct VBPSREGSTATE *,struct HKEY__ *,const char *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.229857 main     1177: create key 'VirtualBox.VirtualBox'(/Default='VirtualBox Class') -> 5
+00:00:00.229970 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(869) long __cdecl vbpsCreateRegKeyA(struct VBPSREGSTATE *,struct HKEY__ *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.229981 main     1263: create key '{20191216-47b9-4a1e-82b2-07ccd5323c3f}' -> 5
+00:00:00.229988 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(964) long __cdecl vbpsCreateRegKeyWithDefaultValueAAEx(struct VBPSREGSTATE *,struct HKEY__ *,const char *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.229995 main     1263: create key '{20191216-47b9-4a1e-82b2-07ccd5323c3f}'(/Default='VirtualBox Class') -> 5
+00:00:00.230097 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(869) long __cdecl vbpsCreateRegKeyA(struct VBPSREGSTATE *,struct HKEY__ *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.230109 main     1177: create key 'VirtualBox.Session.1' -> 5
+00:00:00.230115 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(964) long __cdecl vbpsCreateRegKeyWithDefaultValueAAEx(struct VBPSREGSTATE *,struct HKEY__ *,const char *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.230122 main     1177: create key 'VirtualBox.Session.1'(/Default='Session Class') -> 5
+00:00:00.230222 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(869) long __cdecl vbpsCreateRegKeyA(struct VBPSREGSTATE *,struct HKEY__ *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.230238 main     1177: create key 'VirtualBox.Session' -> 5
+00:00:00.230248 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(964) long __cdecl vbpsCreateRegKeyWithDefaultValueAAEx(struct VBPSREGSTATE *,struct HKEY__ *,const char *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.230256 main     1177: create key 'VirtualBox.Session'(/Default='Session Class') -> 5
+00:00:00.230380 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(869) long __cdecl vbpsCreateRegKeyA(struct VBPSREGSTATE *,struct HKEY__ *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.230391 main     1263: create key '{20191216-c9d2-4f11-a384-53f0cf917214}' -> 5
+00:00:00.230398 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(964) long __cdecl vbpsCreateRegKeyWithDefaultValueAAEx(struct VBPSREGSTATE *,struct HKEY__ *,const char *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.230405 main     1263: create key '{20191216-c9d2-4f11-a384-53f0cf917214}'(/Default='Session Class') -> 5
+00:00:00.230489 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(869) long __cdecl vbpsCreateRegKeyA(struct VBPSREGSTATE *,struct HKEY__ *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.230498 main     1177: create key 'VirtualBox.VirtualBoxClient.1' -> 5
+00:00:00.230505 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(964) long __cdecl vbpsCreateRegKeyWithDefaultValueAAEx(struct VBPSREGSTATE *,struct HKEY__ *,const char *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.230512 main     1177: create key 'VirtualBox.VirtualBoxClient.1'(/Default='VirtualBoxClient Class') -> 5
+00:00:00.230614 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(869) long __cdecl vbpsCreateRegKeyA(struct VBPSREGSTATE *,struct HKEY__ *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.230625 main     1177: create key 'VirtualBox.VirtualBoxClient' -> 5
+00:00:00.230632 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(964) long __cdecl vbpsCreateRegKeyWithDefaultValueAAEx(struct VBPSREGSTATE *,struct HKEY__ *,const char *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.230639 main     1177: create key 'VirtualBox.VirtualBoxClient'(/Default='VirtualBoxClient Class') -> 5
+00:00:00.230744 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(869) long __cdecl vbpsCreateRegKeyA(struct VBPSREGSTATE *,struct HKEY__ *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.230754 main     1263: create key '{20191216-26c0-4fe1-bf6f-67f633265bba}' -> 5
+00:00:00.230761 main     AssertLogRel H:\vbox-6.1.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(964) long __cdecl vbpsCreateRegKeyWithDefaultValueAAEx(struct VBPSREGSTATE *,struct HKEY__ *,const char *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.230768 main     1263: create key '{20191216-26c0-4fe1-bf6f-67f633265bba}'(/Default='VirtualBoxClient Class') -> 5
+00:00:00.238885          VirtualBox: object creation starts
+00:00:00.240780          Home directory: 'C:\Users\PC\.Ld9VirtualBox'
+00:00:00.241108          Installed Drivers:
+00:00:00.267701          USBLibInit: USB Service not found
+00:00:00.392348          netIfGetBoundAdapters: could not find either 'oracle_VBoxNetLwf' or 'sun_VBoxNetFlt' components (0x1)
+00:00:00.405825          HostDnsMonitor: initializing
+00:00:00.418114          HostDnsMonitor: updating information
+00:00:00.419578          HostDnsMonitor: old information
+00:00:00.419600            no server entries
+00:00:00.419607            no domain set
+00:00:00.419613            no search string entries
+00:00:00.419620          HostDnsMonitor: new information
+00:00:00.419626            server 1: 192.168.100.1
+00:00:00.419633            no domain set
+00:00:00.419639            no search string entries
+00:00:00.423360          VD: VDInit finished with VINF_SUCCESS
+00:00:00.425107          ERROR [COM]: aRC=E_FAIL (0x80004005) aIID={20191216-929c-40e8-bf16-fea557cd8e7e} aComponent={SystemPropertiesWrap} aText={Cannot determine default Guest Additions ISO location. Most likely they are not available}, preserve=false aResultDetail=0
+00:00:00.429341          VirtualBox: object created
+00:00:00.887695          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={20191216-e254-4e5b-a1f2-011cf991c38d} aComponent={VirtualBoxWrap} aText={Could not find a registered machine with UUID {20160302-aaaa-aaaa-2add-000000000000}}, preserve=false aResultDetail=0
+00:00:02.506507          Loading settings file "D:\LDPlayer\LDPlayer9\vms\leidian0\leidian.vbox" with version "1.18-windows"
+00:00:02.512495          Saving settings file "C:\Users\PC\.Ld9VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:02.528706          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={20191216-b5bb-4316-a900-5eb28d3413df} aComponent={SessionMachine} aText={Could not find a shared folder named 'Applications'}, preserve=false aResultDetail=0
+00:00:02.529258          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={20191216-b5bb-4316-a900-5eb28d3413df} aComponent={SessionMachine} aText={Could not find a shared folder named 'Bug'}, preserve=false aResultDetail=0
+00:00:02.530050          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={20191216-b5bb-4316-a900-5eb28d3413df} aComponent={SessionMachine} aText={Could not find a shared folder named 'Misc'}, preserve=false aResultDetail=0
+00:00:02.531980          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={20191216-b5bb-4316-a900-5eb28d3413df} aComponent={SessionMachine} aText={Could not find a shared folder named 'Pictures'}, preserve=false aResultDetail=0
+00:00:02.589216          netIfGetBoundAdapters: could not find either 'oracle_VBoxNetLwf' or 'sun_VBoxNetFlt' components (0x1)
+00:00:02.607625          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={20191216-b5bb-4316-a900-5eb28d3413df} aComponent={SessionMachine} aText={No storage device attached to device slot 0 on port 0 of controller 'VirtIO'}, preserve=false aResultDetail=0
+00:00:02.609280          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={20191216-b5bb-4316-a900-5eb28d3413df} aComponent={SessionMachine} aText={No storage device attached to device slot 0 on port 2 of controller 'VirtIO'}, preserve=false aResultDetail=0
+00:00:02.653825          Saving settings file "C:\Users\PC\.Ld9VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:02.663568          Saving settings file "D:\LDPlayer\LDPlayer9\vms\leidian0\leidian.vbox" with version "1.18-windows"
+00:00:02.803713          Launched VM: 48911744 pid: 14900 (0x3a34) frontend: headless name: leidian0
+00:00:03.984279          WARNING [COM]: aRC=E_FAIL (0x80004005) aIID={20191216-5fdc-4aba-aff5-6a39bbd7c38b} aComponent={HostWrap} aText={Could not load the Host USB Proxy Service (VERR_FILE_NOT_FOUND). The service might not be installed on the host computer}, preserve=true  aResultDetail=0
+00:02:28.353871          ERROR [COM]: aRC=VBOX_E_INVALID_OBJECT_STATE (0x80bb0007) aIID={20191216-b5bb-4316-a900-5eb28d3413df} aComponent={MachineWrap} aText={The given session is busy}, preserve=false aResultDetail=0
+00:02:28.356765          Saving settings file "D:\LDPlayer\LDPlayer9\vms\leidian0\leidian.vbox" with version "1.18-windows"
+00:02:28.900219          Saving settings file "D:\LDPlayer\LDPlayer9\vms\leidian0\leidian.vbox" with version "1.18-windows"

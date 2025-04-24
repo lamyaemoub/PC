@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Feb 20 10:39:53 WEST 2024
+jackson-datatype-jsr310-2.15.3.jar>central=
+jackson-datatype-jsr310-2.15.3-sources.jar>central=
+jackson-datatype-jsr310-2.15.3.pom>central=
