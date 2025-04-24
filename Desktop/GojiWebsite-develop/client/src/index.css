@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700&family=Playfair+Display:ital@0;1&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.animate-fadeIn {
+  animation: fadeIn 0.5s ease forwards;
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+
+  body {
+    @apply antialiased bg-background text-foreground font-['Plus_Jakarta_Sans'];
+  }
+}
+
+.margin-ui {
+  margin-bottom: 7%;
+  margin-top: 0;
+  padding-top: 0;
+}
+
+.custom-hero-margin {
+  padding-top: 40%;
+  padding-bottom: 5%;
+
+}
+
+.margin-hero {
+  margin-top: 20%;
+}
+
+.margin-logo {
+  margin-bottom: 25%;
+}
+
+.custom-margin {
+  margin-bottom: 5%;
+  margin-top: 5%;
+}
+
+.margin-buttons {
+  margin-top: 6%;
+}
+
+@media (max-width: 1000px) {
+  .goji-animation {
+    display: none !important;
+  }
+}
