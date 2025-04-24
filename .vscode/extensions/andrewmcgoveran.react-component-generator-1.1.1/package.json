@@ -1,0 +1,151 @@
+{
+	"name": "react-component-generator",
+	"displayName": "React Component Generator",
+	"description": "Generates files needed for new React components",
+	"author": {
+		"name": "AndrewMcGoveran"
+	},
+	"version": "1.1.1",
+	"engines": {
+		"vscode": "^1.51.0"
+	},
+	"categories": [
+		"Other"
+	],
+	"keywords": [
+		"react",
+		"component",
+		"generator",
+		"typescript"
+	],
+	"publisher": "AndrewMcGoveran",
+	"bugs:url": "https://github.com/andrewmcgov/react-component-generator/issues",
+	"activationEvents": [
+		"onCommand:extension.generateComponent",
+		"onCommand:extension.generateStories"
+	],
+	"main": "./dist/extension.js",
+	"icon": "assets/images/icon.png",
+	"contributes": {
+		"commands": [
+			{
+				"command": "extension.generateComponent",
+				"title": "Generate React component"
+			},
+			{
+				"command": "extension.generateStories",
+				"title": "Generate Storybook stories file"
+			}
+		],
+		"menus": {
+			"editor/context": [
+				{
+					"command": "extension.generateComponent",
+					"group": "navigation@5"
+				},
+				{
+					"command": "extension.generateStories",
+					"group": "navigation@6"
+				}
+			],
+			"explorer/context": [
+				{
+					"command": "extension.generateComponent",
+					"group": "2_workspace"
+				},
+				{
+					"command": "extension.generateStories",
+					"group": "2_workspace"
+				}
+			]
+		},
+		"configuration": {
+			"title": "react-component-generator",
+			"properties": {
+				"reactComponentGenerator.language": {
+					"type": "string",
+					"default": "ts",
+					"enum": [
+						"ts",
+						"js"
+					],
+					"description": "Specifies if components should be generated in TypeScript or JavaScript."
+				},
+				"reactComponentGenerator.stylesLanguage": {
+					"type": "string",
+					"default": "css",
+					"enum": [
+						"scss",
+						"css",
+						"module.scss",
+						"module.css"
+					],
+					"description": "Specifies what language will be used for styles."
+				},
+				"reactComponentGenerator.createStoriesFile": {
+					"type": "boolean",
+					"default": "false",
+					"description": "Specifies if a stories file should be generated with the component."
+				},
+				"reactComponentGenerator.useIndexFile": {
+					"type": "boolean",
+					"default": "true",
+					"description": "Specifies if the components folder should have an index file to export all of its components."
+				},
+				"reactComponentGenerator.importReact": {
+					"type": "boolean",
+					"default": "false",
+					"description": "Specifies if React should be imported in generated components and stories."
+				}
+			}
+		}
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/andrewmcgov/react-component-generator"
+	},
+	"homepage": "https://github.com/andrewmcgov/react-component-generator/blob/main/README.md",
+	"license": "SEE LICENSE IN LICENSE.txt",
+	"scripts": {
+		"vscode:prepublish": "yarn run package",
+		"compile": "webpack --devtool nosources-source-map --config ./build/node-extension.webpack.config.js",
+		"watch": "webpack --watch --devtool nosources-source-map --info-verbosity verbose --config ./build/node-extension.webpack.config.js",
+		"package": "webpack --mode production --config ./build/node-extension.webpack.config.js",
+		"test-compile": "tsc -p ./",
+		"test-watch": "tsc -watch -p ./",
+		"pretest": "yarn run test-compile && yarn run lint",
+		"lint": "eslint src --ext ts",
+		"test": "node ./out/test/runTest.js",
+		"publish-update": "vsce package"
+	},
+	"devDependencies": {
+		"@types/glob": "^7.1.3",
+		"@types/mocha": "^8.0.0",
+		"@types/node": "^12.11.7",
+		"@types/vscode": "^1.51.0",
+		"@typescript-eslint/eslint-plugin": "^4.1.1",
+		"@typescript-eslint/parser": "^4.1.1",
+		"eslint": "^7.9.0",
+		"glob": "^7.1.6",
+		"mocha": "^8.1.3",
+		"prettier": "2.2.0",
+		"ts-loader": "^8.0.3",
+		"typescript": "^4.0.2",
+		"vscode-test": "^1.4.0",
+		"webpack": "^4.44.1",
+		"webpack-cli": "^3.3.12",
+		"vsce": "^1.84.0"
+	},
+	"__metadata": {
+		"id": "41d94598-554b-405e-96d6-b40b53c88cb3",
+		"publisherId": "89a724af-e841-4551-b6ef-c3a586612cdd",
+		"publisherDisplayName": "Andrew McGoveran",
+		"targetPlatform": "undefined",
+		"isApplicationScoped": false,
+		"updated": true,
+		"isPreReleaseVersion": false,
+		"installedTimestamp": 1699343968739,
+		"preRelease": false,
+		"size": 41109
+	}
+}
